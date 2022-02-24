@@ -1,0 +1,1767 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poems on several occasions, written in imitation of the manner of Anacreon with other poems, letters and translations.</title>
+            <title>Poems. Selections</title>
+            <author>Oldmixon, Mr. (John), 1673-1742.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53314</idno>
+            <idno type="STC">Wing O261</idno>
+            <idno type="STC">ESTC R10672</idno>
+            <idno type="EEBO-CITATION">13002135</idno>
+            <idno type="OCLC">ocm 13002135</idno>
+            <idno type="VID">96476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96476)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 394:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poems on several occasions, written in imitation of the manner of Anacreon with other poems, letters and translations.</title>
+                  <title>Poems. Selections</title>
+                  <author>Oldmixon, Mr. (John), 1673-1742.</author>
+               </titleStmt>
+               <extent>[23], 122, [i.e. 112] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Parker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J. Oldmixon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96476:1"/>
+            <pb facs="tcp:96476:1"/>
+            <p>POEMS ON Several Occaſions, Written in imitation of the manner of <hi>ANACREON,</hi> WITH Other <hi>Poems, Letters</hi> and <hi>Tranſla<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <q>Cum Thebae, cum Troja foret, cum Caeſaris Acta, Ingenium movit Sola <hi>Corinna</hi> meum.
+<bibl>
+                  <hi>Ovid. Eleg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Parker</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn,</hi> under the <hi>Piazza</hi> of the <hi>Royal Exchange,</hi> in <hi>Cornhill.</hi> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96476:2"/>
+            <pb facs="tcp:96476:2"/>
+            <head>TO THE Right Honourable THE Lord ASHLEY.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THere are many Reaſons which ought to have kept me from troubling your Lordſhip with this Addreſs, but I am willing ſome<g ref="char:EOLhyphen"/>times to believe there are Others that will a little excuſe my Preſumption<g ref="char:punc">▪</g>
+               <pb facs="tcp:96476:3"/>
+I have been long tempted to uſe the firſt Opportunity that ſhould offer, to expreſs my particular Veneration for You. I wiſh, My Lord, I had now been happy in a better occaſion, or that you would not take an Opinion of my Reſpect and Eſteem for You, from the meanneſs of this Preſent.</p>
+            <p>Authors of all Ages are generally fond of their own Productions; but the Oldeſt and Youngeſt are moſt In<g ref="char:EOLhyphen"/>fected with this Vanity. Yet I am not ſo partial to this my firſt Eſſay, but I know it wants many Perfections to be fit to come before You. If it Di<g ref="char:EOLhyphen"/>verts you when you are pleas'd to be free from the Publick Concerns, which ſo often Employ You, 'tis the utmoſt of my pretences; I ſhall be proud of its good Fortune, and have no cauſe to re<g ref="char:EOLhyphen"/>pent I had the Courage to own it.</p>
+            <p>Your Lordſhip has ſufficiently prov'd that the Gallant Man, and the Man of
+<pb facs="tcp:96476:3"/>
+Buſineſs are not incompatable; No Man ever diſcover'd ſo early ſuch a vaſt Capacity for the Buſineſs you have undertaken. And ſince you conſent<g ref="char:EOLhyphen"/>ed to be choſen a Member of the Houſe of Commons, None ever appear'd more Sollicitous for the Publick Cood, or knew better how to promote it than your Lordſhip. You have joyn'd the Vivacity of Youth, with the Wiſdom and Temper of Age, and already ſe<g ref="char:EOLhyphen"/>cur'd your Self a Character, which o<g ref="char:EOLhyphen"/>thers have been Labouring for whole Ages with leſs ſucceſs.</p>
+            <p>But your Thoughts in affairs of high<g ref="char:EOLhyphen"/>eſt conſequence, however weighty in themſelves, never ſit heavy on you; you are not diſcompos'd by them, or prevented from a moderate Enjoyment of thoſe Pleaſures, which are the Pro<g ref="char:EOLhyphen"/>piety of men of your Wit and Quality.</p>
+            <p>Thoſe who have the Honour to be intimate with You, and are acquaint<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:96476:4"/>
+with the ſweetneſs of your Diſpo<g ref="char:EOLhyphen"/>ſition, and Your unaffected eaſineſs to Your Private Friends, give us ſuch idea's of You, that to be ſilent here, would be an injuſtice to Your Merit; however faulty we make our ſelves by it to Your Lordſhip. I can now almoſt pleaſe my ſelf, that I am no better known to You; for certainly my Diſ<g ref="char:EOLhyphen"/>cretion could not reſtrain me from con<g ref="char:EOLhyphen"/>ſulting my own, more than Your Lordſhips pleaſure, in dwelling on this Subject.</p>
+            <p>The World have ſo High an Opini<g ref="char:EOLhyphen"/>on of Your Worth, that they will ex<g ref="char:EOLhyphen"/>cuſe me for ſpeaking of You, tho 'tis even in a Dedication; They will only blame me for concluding ſo ſoon; but 'tis that only which can give me any hopes of procuring Your Pardon.</p>
+            <p>Such indeed frequently abuſe a Man of Quality, with unſeaſonable Praiſes who have ſervile ends to promote by
+<pb facs="tcp:96476:4"/>
+it: but my deſign is purely to expreſs my Zeal for Your Lordſhip. I have not yet Learn't to Flatter, and it miſcarries ſo often of late, that the Vileſt Authors begin to be aſham'd of it.</p>
+            <p>Moſt of theſe Poems, which I hum<g ref="char:EOLhyphen"/>bly Dedicate to You, were Written by a Perſon in Love, in thoſe Hours which he devoted to the Contemplation of his <hi>Miſtreſs:</hi> Your Lordſhip, who is ſo well with the <hi>Fair Sex,</hi> muſt have been ſenſible of that Paſſion, which makes us think not always ſo juſtly as we ought, you will then pity the Errors you find here, If you can't excuſe them; but <hi>I</hi> Tremble, my Lord, when <hi>I</hi> think there is not one inconſiderable enough to eſcape you. Yet tho <hi>I</hi> leave Your Lord<g ref="char:EOLhyphen"/>ſhip with theſe apprehenſions of your Juſtice, <hi>I</hi> would not wholly diſpair of Your Mercy.</p>
+            <closer>
+               <signed>
+                  <hi>I</hi> am, <hi>My Lord,</hi> Your Lordſhips moſt Obe<g ref="char:EOLhyphen"/>dient and moſt Humble Servant. <hi>J. Oldmixon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:96476:5"/>
+            <pb facs="tcp:96476:5"/>
+            <head>THE Preface.</head>
+            <p>AFter I have ventur'd to declare, That moſt of theſe Poems were Written in Imitation of <hi>Anacreon's</hi> Manner, I ſhall be excus'd for keeping the Reader a little while from them; ſince 'tis ne<g ref="char:EOLhyphen"/>ceſſary I ſhould Explain my meaning to ſome who may think me too forward. I wiſh I underſtood <hi>A<g ref="char:EOLhyphen"/>nacreon</hi> as well as a great many Gentlemen, who perhaps don't Love him better; but I believe I know enough of him, and of the reſt of the Ancients, to find he excell'd them all in the <hi>Lyrick</hi> way of Writ<g ref="char:EOLhyphen"/>ing, for the <hi>Naivete</hi> of his Thoughts, and Ex<g ref="char:EOLhyphen"/>preſſions, for his Gaiety and good Humour, for his Delicacy and Pleaſantry, and for most of the Qualities of an honeſt Gentleman and a Lover. Of all the Ancients <hi>Catullus</hi> and <hi>Horace</hi> were hap<g ref="char:EOLhyphen"/>piest
+<pb facs="tcp:96476:6"/>
+in their Imitation of <hi>Anacreon; Catullus</hi> Coppied the Delicate Turn of his Thought, the ſoftneſs, ſimplicity, and negligence of his Expreſ<g ref="char:EOLhyphen"/>ſion; but Monſieur <hi>Rapin</hi> tells us, he is not always free from Affectation. <hi>Horace</hi> imitated him in his Gaiety and good Humour; but he is not ſo Natural, ſo Sweet and inſinuating as <hi>Anacreon,</hi> who is ever Pleaſant, Free and Graceful, and for the <hi>Naivete</hi> of Thoughts, I believe will never have his Equal. I might ſay much more of <hi>Anacreon,</hi> and the com<g ref="char:EOLhyphen"/>pariſon between him, <hi>Catullus</hi> and <hi>Horace;</hi> but I will leave it for a fairer Occaſion, and acquaint the Reader with what more immediately relates to the Verſes I here Publiſh. I have indeavour'd every where to be Eaſy and Natural; to ſay no more than what riſes directly from the Subject. I have avoided, as far as I could, the Faults of ſuch as have written of Love before me: They were, ſome of them, Witty Gentlemen, but they ſeldom ſpeak warmly of their Miſtreſſes Beauties, or their own Paſſion; when they pretend to it, they diſcover a greater value for themſelves, and would be rather thought Witty and Learned, than Hearty and Paſ<g ref="char:EOLhyphen"/>ſionate. I muſt confeſs, I was never touch'd by any of theſe <hi>Famous Authors.</hi> I can ſcarce read them without Indignation, but I believe their Miſtreſſes were as cold as their Verſes, and then I am better ſa<g ref="char:EOLhyphen"/>tisfi'd. After what <hi>Mr. Walſh</hi> has Inform'd us of their Miſtakes in his judicious Preface to his
+<pb facs="tcp:96476:6"/>
+Poems, there is little more for me, or any Man to ſay on that Subject: You will find nothing in this little Volume, but what was the Real Sentiments of my Heart at the time I Writ it, and he that will not give himſelf a greater Liberty, has no need to fear being thought forc'd, or unnatural, which is the greateſt Viee in Verſes of Love and Gallantry.</p>
+            <p>'Tis true, when a Man Induſtriouſly avoids Art, he will be in danger of becoming flat and in<g ref="char:EOLhyphen"/>ſipid. But we muſt never let it appear too viſibly, and when we mingle it in a Poem, we muſt manage it ſo, that it may ſeem all of a Piece. Art muſt never be too high for Nature, nor Nature too low for Art, Eſpecially in the Affairs of Love, where the Ladies are to be our Judges, who are very nice in ſuch mat<g ref="char:EOLhyphen"/>ters, and will frequently be more taken with a Paſ<g ref="char:EOLhyphen"/>ſionate Look or Gesture, than with formal Speeches, or the fineſt Arguments. As I have imitated <hi>Ana<g ref="char:EOLhyphen"/>creon</hi> in this <hi>Naivete</hi> of Thought. So I have follow'd him in his regular meaſure; and I was once almost reſolv'd to call the Poems that were writ<g ref="char:EOLhyphen"/>ten in imitation of his manner, <hi>Odes;</hi> The Num<g ref="char:EOLhyphen"/>bers being as exactly try'd, and as truly Lyrical as I could make them. But the Numbers are too regular and the Poems were not divided into Stanza's, ac<g ref="char:EOLhyphen"/>cording to the Modern Character of an <hi>Ode.</hi> Tho <hi>Anacreon</hi> did not ſet us this Example, neither did <hi>Pindar</hi> allow himſelf to be ſo Licenti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us in his Meaſure, as ſome who would have us believe
+<pb facs="tcp:96476:7"/>
+they have Imitated him. As for the Stanza, the An<g ref="char:EOLhyphen"/>cients and Moderns have frequently us'd it, and 'tis very beautiful in thoſe who perfectly underſtand it; yet the ſenſe being to be often clos'd, and a Connexi<g ref="char:EOLhyphen"/>on of the whole to be ſtill continued; there are few that can confine themſelves to ſuch narrow Limits; but when they ſtrive to be Correct in the Stan<g ref="char:EOLhyphen"/>za, their Thoughts appear imperfect and confus'd, and have nothing of that Native freedom which ought every where to ſhine in Poetry. To avoid theſe Errors, I have given myſelf more room, but ſtill obſerv'd one manner, and kept my Verſes to ſeven or eight Feet, which admits of a ſofter Ca<g ref="char:EOLhyphen"/>dence, and in little things, pleaſes the Ear better than the <hi>Engliſh</hi> Heroick of Ten Syllables. Be<g ref="char:EOLhyphen"/>ſides, having study'd to be always Lyrical, the Numbers according to Mr. <hi>Dennis</hi> (who is one of our beſt Judges) ſhould not be extended beyond the eighth Syllable. The Heroick Meaſure is more ſounding, and by conſequence not ſo ſuitable to the Softneſs of my Subject, which is generally Love, nor to the ſimplicity of the Thought and Expreſſion, which I hope will no where appear Forc'd or Af<g ref="char:EOLhyphen"/>fected.</p>
+            <p>If I have not ſucceeded in <hi>Engliſhing</hi> the Two Satires out of <hi>Boileau,</hi> ſo well as thoſe Gentlemen who have done ſome others of them, and from whom more is to be expected, I may at leaſt affirm they have not kept cloſer to the Ori<g ref="char:EOLhyphen"/>ginal,
+<pb facs="tcp:96476:7"/>
+than I have; and perhaps being too ten<g ref="char:EOLhyphen"/>der of the Reputation of that great Man, to min<g ref="char:EOLhyphen"/>gle my own Thoughts with his, or take the liberties which are allow'd in an Imitation, I was oblig'd in ſome places, where I ſtrove to be Litteral, to ſpeak too much like Proſe; I hope, however, this fault will not be often found, or very much to my diſ<g ref="char:EOLhyphen"/>advantage.</p>
+            <p>The Tranſlations out of <hi>Catullus, &amp;c.</hi> have been often Attempted before, I muſt own I was not pleas'd with them my ſelf, nor perhaps will the World be more ſatisfy'd with mine: I think, how<g ref="char:EOLhyphen"/>ever, in the Numbers and the Turn, I have been more Faithful to the Originals; yet I don't always keep to 'em too ſervilely.</p>
+            <p>After all I can ſay to inſinuate my ſelf into the favour of the Publick, I ſhall make no de<g ref="char:EOLhyphen"/>pendance on my Excuſes, though <hi>I</hi> have many to Offer, which have at leaſt a Colour of Reaſon; Poetry has not been the buſineſs of my Life; I ſhould reckon it amongſt my Misfortunes if it had; I only, like Prince <hi>Arthur,</hi> made it my Diverſion, and perhaps, like him, it may be only a Pleaſure to the Author. 'Tis too Rich a Study to be a Mans conſtant Diet, but proper to reliſh ſuch as are more Grave, and more Profita<g ref="char:EOLhyphen"/>ble.</p>
+            <p>
+               <pb facs="tcp:96476:8"/>Mr. <hi>Walſh</hi> tells us, A Man ought to be out of Love to Correct thoſe Pieces which he Writes in his Amorous Furies; but I have not had the Patience to tarry for that diſmal Hour, and I hope 'twill be late before it overtakes me. This will be ſome excuſe for me to the Fair and Young, whoſe Hearts are in the ſame Circumstances; and if ſome Errors may have eſcap'd me, they will, for their own ſakes, forgive ſuch follies which my Paſſion has made me Guilty of.</p>
+            <p>There are ſome who will condemn me for be<g ref="char:EOLhyphen"/>ing too familiar in my Love Deſcriptions, and going beyond the ſeverity of Religion: Theſe are a ſort of Perſons who will have the Liberty of their Thoughts, in ſpite of <hi>Law</hi> or <hi>Reaſon,</hi> who having loſt their Taſt (if ever they had any) for things of this Nature, are diſguſted at the Pleaſures others Enjoy, and they are wholly inca<g ref="char:EOLhyphen"/>pable of. If they were People that could be con<g ref="char:EOLhyphen"/>vinc'd by Good Senſe, what the Biſhop of <hi>Ro<g ref="char:EOLhyphen"/>cheſter</hi> ſays on this, in his Life of <hi>Cowley,</hi> is enough to ſatisfy them. <hi>If Devout or Vertuous Men will Superciliouſly forbid the Minds of the Young, to Adorn thoſe Subjects, about which they are moſt converſant, they would put them out of all capacity of performing Greater Matters when they come to them, for
+<pb facs="tcp:96476:8"/>
+the exerciſes of all Mens Wits, muſt be always proper for their Age.</hi>
+            </p>
+            <p>But leſt the Ladies, whom I deſire chiefly to Pleaſe, and fear always to Offend, ſhould be pre<g ref="char:EOLhyphen"/>vail d on by theſe falſe ſcruples, to think ill of the following Poems; I aſſure them here is nothing which has not already been allow'd of by the most Vertuous, as well as the moſt Charming of their Sex.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:96476:9"/>
+            <pb facs="tcp:96476:9"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>TO Flavia. pag. 1</hi>
+               </item>
+               <item>The Conteſt. <hi>pag. 3</hi>
+               </item>
+               <item>To <hi>Cloe. pag. 7</hi>
+               </item>
+               <item>On a Perfume taken out of a Young Ladies Boſom. <hi>pag. 9</hi>
+               </item>
+               <item>The Grove. <hi>pag. 11</hi>
+               </item>
+               <item>To <hi>Corinna. pag. 14</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:96476:10"/>The Picture. <hi>pag. 16</hi>
+               </item>
+               <item>To Mr. <hi>Sergeant,</hi> inviting him into the Country. <hi>pag. 18</hi>
+               </item>
+               <item>The Country Wit. <hi>pag. 21</hi>
+               </item>
+               <item>To the <hi>Bath,</hi> and <hi>Zelinda</hi> in it. <hi>pag. 23</hi>
+               </item>
+               <item>To <hi>Corinna. pag. 25</hi>
+               </item>
+               <item>To a Gentleman on his being Jilted. <hi>pag. 28</hi>
+               </item>
+               <item>To <hi>Lucinda</hi> on her Recovery from an Indiſpoſition. <hi>pag. 31</hi>
+               </item>
+               <item>The Reſpectful Lover. <hi>pag. 34</hi>
+               </item>
+               <item>The ſecond <hi>Ode</hi> of <hi>Anacreon,</hi> Tran<g ref="char:EOLhyphen"/>ſlated out of the Greek <hi>pag. 36</hi>
+               </item>
+               <item>Written Extempore in a Young Ladies <hi>Almanack. pag. 38</hi>
+               </item>
+               <item>To <hi>Cleora. pag. 39</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:96476:10"/>A Fragment out of <hi>Petronius. pag. 42</hi>
+               </item>
+               <item>Out of <hi>Catullus. pag. 44</hi>
+               </item>
+               <item>A Song. <hi>pag. 46</hi>
+               </item>
+               <item>A Song. <hi>pag. 48</hi>
+               </item>
+               <item>A Song. <hi>pag. 50</hi>
+               </item>
+               <item>A Song. <hi>pag. 52</hi>
+               </item>
+               <item>An Epigram on a pert ſlovenly <hi>Sa<g ref="char:EOLhyphen"/>tiriſt. pag. 55</hi>
+               </item>
+               <item>An Epigram of <hi>Boileau,</hi> imitated. <hi>pag. 56</hi>
+               </item>
+               <item>Another <hi>pag. 57</hi>
+               </item>
+               <item>Another. <hi>pag. 58</hi>
+               </item>
+               <item>The Seventh Satire of <hi>Boileau,</hi> Eng<g ref="char:EOLhyphen"/>liſh'd. <hi>pag. 59</hi>
+               </item>
+               <item>The Second Satire of <hi>Boileau,</hi> Eng<g ref="char:EOLhyphen"/>liſh'd. <hi>pag. 67</hi>
+               </item>
+               <item>To Dr. <hi>Turberville</hi> of <hi>Salisbury. pag. 85</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:96476:11"/>
+            <pb facs="tcp:96476:11"/>
+            <head>POEMS.</head>
+            <pb facs="tcp:96476:12"/>
+            <div type="poem">
+               <pb n="1" facs="tcp:96476:12"/>
+               <head>TO FLAVIA.</head>
+               <l>WHat! <hi>Flavia,</hi> is your Bounty ceaſt,</l>
+               <l>With the poor Bliſſes I poſſeſt;</l>
+               <l>Poſſeſt, but as a Brother ſhou'd,</l>
+               <l>By halves you have been always good,</l>
+               <l>At leaſt to me, when much I fear,</l>
+               <l>For others nothing is too dear.</l>
+               <l>Ah! <hi>Flavia,</hi> I would fain believe,</l>
+               <l>You are not skilful to deceive;</l>
+               <l>Such Youth from Artifice is free,</l>
+               <l>And you are only kind to me;</l>
+               <l>
+                  <pb n="2" facs="tcp:96476:13"/>Tho' did you Love, as you profeſs,</l>
+               <l>You'd give me more, or give me leſs,</l>
+               <l>If you at firſt had us'd me ill,</l>
+               <l>You might with reaſon do it ſtill;</l>
+               <l>You wou'd have had a mock excuſe,</l>
+               <l>To torture me, or to refuſe.</l>
+               <l>But when you can ſo far comply,</l>
+               <l>The reſt 'tis ſolly to deny,</l>
+               <l>Unleſs uncommon ways you uſe,</l>
+               <l>And ſmile on thoſe you would abuſe.</l>
+            </div>
+            <div type="poem">
+               <pb n="3" facs="tcp:96476:13"/>
+               <head>THE CONTEST.</head>
+               <l>HElp me, help me! Gentle Love;</l>
+               <l>All my wandring thoughts remove;</l>
+               <l>Fix 'em where they ſhould be true,</l>
+               <l>They are all <hi>Corinna</hi>'s due,</l>
+               <l>If a long and awful Reign,</l>
+               <l>Can in Love a Right obtain.</l>
+               <l>Or convince me, I am wrong,</l>
+               <l>Tell me! She has rul'd too long:</l>
+               <l>Tell me! That ſhe was unkind;</l>
+               <l>That to Love ſhe ne're inclin'd;</l>
+               <l>
+                  <pb n="4" facs="tcp:96476:14"/>That her Arbitrary ſway</l>
+               <l>Taught me firſt to diſobey,</l>
+               <l>Oh! inſtruct me what to ſay.</l>
+               <l>I, confounded with my ſhame,</l>
+               <l>Dare not own another Flame.</l>
+               <l>Subjects, when they change a King,</l>
+               <l>Should ſome Lawful Reaſons bring;</l>
+               <l>All my Reaſons ſeem too weak,</l>
+               <l>I am Dumb and cannot ſpeak;</l>
+               <l>How can I ſuch Beauty wrong,</l>
+               <l>One ſo Witty, Gay and Young;</l>
+               <l>Every Charm, and every Grace,</l>
+               <l>Dwells in my <hi>Corinna</hi>'s Face:</l>
+               <l>But my <hi>Cloe</hi> is as Fair,</l>
+               <l>Happier in a Charming Air:</l>
+               <l>So much Beauty, ſo much youth,</l>
+               <l>So much Innocence and Truth,</l>
+               <l>
+                  <pb n="5" facs="tcp:96476:14"/>'Tis impoſſible to ſee,</l>
+               <l>And for Loving cenſure me.</l>
+               <l>Sure <hi>Corinna</hi> cannot blame,</l>
+               <l>Such a hopeful, happy Flame;</l>
+               <l>When ſhe knows that if I burn,</l>
+               <l>Tis in hopes of a return.</l>
+               <l>Love, thy Dictates I perſue,</l>
+               <l>Tell me therefore, what to do;</l>
+               <l>Shall I with <hi>Corinna</hi> part,</l>
+               <l>Shall I throw her from my Heart?</l>
+               <l>She does ſtill my ſuit refuſe,</l>
+               <l>Is not that a good excuſe?</l>
+               <l>Oh! if 'tis not, tell me how</l>
+               <l>Juſtice can my Change allow?</l>
+               <l>Thou didſt firſt my Soul Inſpire,</l>
+               <l>Thou doſt ſet my Heart on Fire,</l>
+               <l>When <hi>Corinna</hi> I remove,</l>
+               <l>Witneſs, all the fault is Love;</l>
+               <l>
+                  <pb n="6" facs="tcp:96476:15"/>Let the Treachery be thine,</l>
+               <l>And the Frailty only mine.</l>
+            </div>
+            <div type="poem">
+               <pb n="7" facs="tcp:96476:15"/>
+               <head>TO CLOE.</head>
+               <l>PRethee <hi>Cloe,</hi> not ſo faſt,</l>
+               <l>Let's not run and Wed in haſt;</l>
+               <l>We've a thouſand things to do,</l>
+               <l>You muſt fly, and I perſue;</l>
+               <l>You muſt frown, and I muſt ſigh;</l>
+               <l>I intreat, and you deny.</l>
+               <l>Stay— If I am never croſt,</l>
+               <l>Half the Pleaſure will be loſt;</l>
+               <l>
+                  <pb n="8" facs="tcp:96476:16"/>Be, or ſeem to be ſevere,</l>
+               <l>Give me reaſon to Deſpair;</l>
+               <l>Fondneſs will my Wiſhes cloy,</l>
+               <l>Make me careleſs of the Joy.</l>
+               <l>Lovers may of courſe complain</l>
+               <l>Of their trouble and their pain;</l>
+               <l>But if Pain and Trouble ceaſe,</l>
+               <l>Love without it will not pleaſe.</l>
+            </div>
+            <div type="poem">
+               <pb n="9" facs="tcp:96476:16"/>
+               <head>ON A PERFUME Taken out of a Young Ladie's Boſom.</head>
+               <l>BEgon! Bold Rival from my Fair,</l>
+               <l>Thou haſt no Plea for Buſineſs there;</l>
+               <l>'Twere needleſs where the Lilly grows,</l>
+               <l>To add Perfumes, or to the Roſe;</l>
+               <l>Faint are the Sweets which thou canſt give,</l>
+               <l>To thoſe which in her Boſom Live;</l>
+               <l>
+                  <pb n="10" facs="tcp:96476:17"/>Thence tender Wiſhes, Amorous Sighs,</l>
+               <l>Love's Breath, the richeſt Odours riſe.</l>
+               <l>Not all the Spices of the <hi>Eaſt,</hi>
+               </l>
+               <l>Nor <hi>Indian</hi> Grove nor <hi>Phaenix</hi> Neſt,</l>
+               <l>Send forth an Odour to compare</l>
+               <l>With what we find to pleaſe, us there</l>
+               <l>Where Nature has been ſo profuſe,</l>
+               <l>Thy little Arts are of no uſe.</l>
+               <l>Thou canſt not add a grace to her,</l>
+               <l>She's all Perfection every where.</l>
+               <l>Speak ſawcy thing, for I will know</l>
+               <l>How much to her, and me you owe.</l>
+               <l>Whence comes this ſweetneſs ſo Divine?</l>
+               <l>Speak, is it hers, or is it thine?</l>
+               <l>Ha! Varlet, by the fragrant ſmell</l>
+               <l>'Tis her's, all her's, I know it well;</l>
+               <l>I know you rob'd <hi>Olivia</hi>'s Store,</l>
+               <l>But hence! For you ſhall ſteal no more.</l>
+               <l>
+                  <pb n="11" facs="tcp:96476:17"/>Be gone! She has no room for thee,</l>
+               <l>
+                  <hi>Olivia</hi>'s boſom muſt be free,</l>
+               <l>For nothing but for Love and me.</l>
+            </div>
+            <div type="poem">
+               <pb n="12" facs="tcp:96476:18"/>
+               <head>The GROVE.</head>
+               <l>OH! 'tis ſweet, 'tis wondrous ſweet,</l>
+               <l>When I and <hi>Amarilis</hi> meet,</l>
+               <l>In a fragrant Shady Grove,</l>
+               <l>Full of Wiſhes, full of Love:</l>
+               <l>Oh! What pretty things we ſay,</l>
+               <l>How the Minutes fly away,</l>
+               <l>When with glances mingling Kiſſes,</l>
+               <l>We prepare for ſofter Bliſſes;</l>
+               <l>On ſome Moſſey-bank we lye,</l>
+               <l>Play and touch, imbrace and dye:</l>
+               <l>Then from little feuds and jars,</l>
+               <l>We proceed to Amorous Wars.</l>
+               <l>
+                  <pb n="13" facs="tcp:96476:18"/>Oh! how many <hi>Heavens</hi> we find,</l>
+               <l>I am Young and ſhe is Kind.</l>
+               <l>Kind and Free without deſign,</l>
+               <l>Mine at Will, and only mine;</l>
+               <l>Smiling always, always toying;</l>
+               <l>Ever fond, yet never cloying;</l>
+               <l>Could the coldeſt Hermit ſee</l>
+               <l>Half the ſweets Enjoy'd by me.</l>
+               <l>Happy once to ſee her Eyes,</l>
+               <l>Preſs her Lips, and hear her Sighs,</l>
+               <l>Claſp her Waſt, and touch her Skin,</l>
+               <l>Soon he would forget the Sin,</l>
+               <l>All his darling hopes of Bliſs</l>
+               <l>In a diſtant Paradiſe,</l>
+               <l>All with eaſe he would reſign</l>
+               <l>For a minute's taſte of mine.</l>
+            </div>
+            <div type="poem">
+               <pb n="14" facs="tcp:96476:19"/>
+               <head>To <hi>CORINNA.</hi>
+               </head>
+               <l>FAir <hi>Corinna</hi> tell me why</l>
+               <l>You are often heard to ſigh,</l>
+               <l>Why your Eyes are often ſeen</l>
+               <l>Kind as Lovers ſhould have been;</l>
+               <l>Tell me, Madam, what you mean?</l>
+               <l>Something does your Soul imploy,</l>
+               <l>Love or Anger, Grief or Joy,</l>
+               <l>By the Symptoms we diſcover,</l>
+               <l>Something even of a Lover.</l>
+               <l>Love, like Murder, will appear,</l>
+               <l>Tho' you take the greateſt care.</l>
+               <l>Every motion will reveal</l>
+               <l>What you ſtrugle te conceal,</l>
+               <l>
+                  <pb n="15" facs="tcp:96476:19"/>Hide it not, for I perceive</l>
+               <l>When your Breaſts begin to heave,</l>
+               <l>When they riſe, and when they fall,</l>
+               <l>Then I ſee, and know it all;</l>
+               <l>They in ſpite of all your Art,</l>
+               <l>Tell the Conflicts of your Heart,</l>
+               <l>Every throb and pant repeat,</l>
+               <l>Equal time and motion beat,</l>
+               <l>But for whom your Wiſhes grow,</l>
+               <l>That, Oh! that, I cannot know.</l>
+            </div>
+            <div type="poem">
+               <pb n="16" facs="tcp:96476:20"/>
+               <head>The <hi>PICT<g ref="char:V">Ʋ</g>RE.</hi>
+               </head>
+               <l>PAinter I have often ſeen,</l>
+               <l>What a Flatterer thou haſt been,</l>
+               <l>Take thy Pencil now and ſhew</l>
+               <l>What thy Art with Truth can do,</l>
+               <l>Paint me with the niceſt care,</l>
+               <l>One that's young and wondrous fair,</l>
+               <l>Paint <hi>Corinna</hi>'s Mein and Air,</l>
+               <l>On her Eyes imploy thy skill,</l>
+               <l>Make 'em Kind, but make 'em Kill,</l>
+               <l>Make 'em ſoft, and make 'em bright,</l>
+               <l>Let 'em, like her own, delight,</l>
+               <l>Draw her Fore-head, then her Noſe,</l>
+               <l>All that's Beautiful ſuppoſe,</l>
+               <l>
+                  <pb n="17" facs="tcp:96476:20"/>Made for Love and Lovers bliſſes,</l>
+               <l>Cheeks and Lips deſign'd for kiſſes,</l>
+               <l>Lips ſo red and Teeth ſo white.</l>
+               <l>Fancy cannnot do her right.</l>
+               <l>Such a white and ſuch a red,</l>
+               <l>Never can be thought or ſaid;</l>
+               <l>All thy Colours will not do,</l>
+               <l>Search abroad and ſeek for new.</l>
+               <l>See if nature can ſupply,</l>
+               <l>Colours of ſo fine a dye;</l>
+               <l>Draw her Neck, and then her Brea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Draw—What muſt not be Expreſt.</l>
+               <l>Charm me with her ſhape and Skin,</l>
+               <l>Let her be all o're Divine,</l>
+               <l>In her Picture let her ſee;</l>
+               <l>What ſhe ſtill deny's to me,</l>
+               <l>Make her ſmile, and ſhe will own,</l>
+               <l>Naught ſo hateful as a frown.</l>
+            </div>
+            <div type="poem">
+               <pb n="18" facs="tcp:96476:21"/>
+               <head>
+                  <hi>TO Mr. Sergeant</hi> Inviting him into the Country.</head>
+               <l>COme my <hi>Thyrſis,</hi> come away,</l>
+               <l>Don't your Joy and mine delay;</l>
+               <l>But to make 'em both compleat,</l>
+               <l>Come and taſte of my retreat.</l>
+               <l>'Tis not ſuch as Hermits boaſt,</l>
+               <l>When by men or Fortune croſt,</l>
+               <l>To ſome Cell the Fools repair,</l>
+               <l>And imagine bleſſings there.</l>
+               <l>Make their virtue a pretence,</l>
+               <l>For ill nature and offence.</l>
+               <l>
+                  <pb n="19" facs="tcp:96476:21"/>Shun the World which in return,</l>
+               <l>Treats them with neglect and ſcorn.</l>
+               <l>Nothing looks in my retreat,</l>
+               <l>Diſcontented or unſweet.</l>
+               <l>True—'tis private, and you know,</l>
+               <l>Love and Friendſhip ſhould be ſo,</l>
+               <l>Solitude diſſolves the mind,</l>
+               <l>Makes it pleaſant, free, and kind;</l>
+               <l>All our niceſt beauties here,</l>
+               <l>Scorn th' appearance of ſevere.</l>
+               <l>Seldom, very ſeldom known,</l>
+               <l>To be fierce, or force a frown:</l>
+               <l>Seldom are untimely coy,</l>
+               <l>When invited to the joy;</l>
+               <l>But with wondrous eaſe comply,</l>
+               <l>Or with equal Grace deny.</l>
+               <l>When from my Careſſes free,</l>
+               <l>Love ſhall force thy thoughts from me;</l>
+               <l>
+                  <pb n="20" facs="tcp:96476:22"/>Happy in ſuch ſweet amours,</l>
+               <l>We will paſs our haſty hours.</l>
+               <l>You with <hi>Sylvia,</hi> or with <hi>Phillis,</hi>
+               </l>
+               <l>Conſtant I, with <hi>Amaryllis,</hi>
+               </l>
+               <l>Court and Kiſs 'em all the Day;</l>
+               <l>All the Ev'ning toy and play,</l>
+               <l>All the night-hold —None ſhall know,</l>
+               <l>What at night we mean to do.</l>
+               <l>Be it how it will, you'll find</l>
+               <l>Nature only makes 'em kind,</l>
+               <l>Oft ſuch pleaſures may be known,</l>
+               <l>You have felt 'em in the Town;</l>
+               <l>Yet my, my <hi>Thyrſis,</hi> you'll confeſs,</l>
+               <l>Fears and Dangers make 'em leſs.</l>
+               <l>Crouds, Diſeaſes, ſeuds and noiſe,</l>
+               <l>Render 'em imperfect joys;</l>
+               <l>But in ſhades and ſilence given,</l>
+               <l>Every Extaſy is Heaven.</l>
+            </div>
+            <div type="poem">
+               <pb n="21" facs="tcp:96476:22"/>
+               <head>THE Country Wit.</head>
+               <l>A Country Wit who came to Town,</l>
+               <l>Was wondrous willing to be known,</l>
+               <l>And that he might not tarry long,</l>
+               <l>He ſaw a Play and writ a Song.</l>
+               <l>But this however not enough,</l>
+               <l>He went to <hi>Will's</hi> and borrow'd ſnuff,</l>
+               <l>From <hi>Dryden's</hi> box with many more,</l>
+               <l>Who beg'd the liberty before;</l>
+               <l>For you muſt know amongſt the Beaux,</l>
+               <l>Wit always enters by the Noſe,</l>
+               <l>And paſſing quickly to the Brain,</l>
+               <l>Comes tickling down in verſe again.</l>
+               <l>
+                  <pb n="22" facs="tcp:96476:23"/>Our <hi>Wit</hi> thus favour'd writes apace.</l>
+               <l>You read the Author in his face.</l>
+               <l>With <hi>Sonnet, Elegy</hi> and <hi>Ode,</hi>
+               </l>
+               <l>He crams a Book and comes abroad.</l>
+               <l>But Oh! the ſate of human things,</l>
+               <l>In vain he writes, in vain he ſings,</l>
+               <l>The Town uncivilly refuſe,</l>
+               <l>To liſten to a Country Muſe;</l>
+               <l>And ſcarce will condeſcend to damn,</l>
+               <l>This mighty Candidate of fame,</l>
+               <l>Down to his Seat, the Cox-comb goes,</l>
+               <l>He rail's at Criticks Wits and Beaus.</l>
+               <l>He ſwears that non-ſence is prefer'd,</l>
+               <l>That merit never meets reward,</l>
+               <l>That envy makes the Criticks curſe,</l>
+               <l>His Poems while they publiſh worſe;</l>
+               <l>That ſpite of what they think or ſay,</l>
+               <l>He'll write or print as well as they.</l>
+            </div>
+            <div type="poem">
+               <pb n="23" facs="tcp:96476:23"/>
+               <head>TO The <hi>Bath</hi> and <hi>Zelinda</hi> in it.</head>
+               <l>OH! could I change my form like <hi>Jove,</hi>
+               </l>
+               <l>In ſhow'rs like him, I'de feaſt my Love,</l>
+               <l>And mingling with the waters play,</l>
+               <l>Around <hi>Zelinda's</hi> breaſt as they.</l>
+               <l>Ah! happy waves you may at large,</l>
+               <l>Sport in the boſom of your Charge,</l>
+               <l>Survey her Limbs and all her Charms;</l>
+               <l>And wanton in her Virgin Arms.</l>
+               <l>Be civil yet and have a care,</l>
+               <l>You be'nt, too Saucy with my fair,</l>
+               <l>
+                  <pb n="24" facs="tcp:96476:24"/>Your Rival I ſhall jealous grow,</l>
+               <l>Nor can one eager touch allow;</l>
+               <l>You wildly rove, you kiſs, embrace</l>
+               <l>Her body and reflect her face.</l>
+               <l>You're too Officious, and preſume,</l>
+               <l>To w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> where you ſhould not come.</l>
+               <l>You croud too thick, you ſtay too long,</l>
+               <l>You hurt her with your eager throng;</l>
+               <l>But warm her into Love and ſtay,</l>
+               <l>It ſhall excuſe your bold delay,</l>
+               <l>Soften her frozen heart and Move,</l>
+               <l>
+                  <hi>Zelinda</hi>'s Soul to think of Love:</l>
+               <l>Ah! melt her breſt, for pitty, do,</l>
+               <l>That I may be as bleſt as you.</l>
+            </div>
+            <div type="poem">
+               <pb n="25" facs="tcp:96476:24"/>
+               <head>TO Corinna.</head>
+               <l>SAY, <hi>Corinna,</hi> do you find,</l>
+               <l>Nothing in your boſom kind,</l>
+               <l>Is it never leſs ſevere,</l>
+               <l>Or d' ye never wiſh it were.</l>
+               <l>Yes, I read it in your eyes,</l>
+               <l>Hear it, know it by your ſighs;</l>
+               <l>Sighs that gently ſteal their way,</l>
+               <l>Tell me all that you ſhould ſay,</l>
+               <l>
+                  <pb n="26" facs="tcp:96476:25"/>Tell me when you ſeem ſerene,</l>
+               <l>You're not always calm within;</l>
+               <l>But are vext with tumults there,</l>
+               <l>Such as oft diſturb the fair.</l>
+               <l>Say, <hi>Corinna,</hi> is it true?</l>
+               <l>Say, for I'm a Lover too,</l>
+               <l>And can tell you what to do;</l>
+               <l>He that's worthy to be bleſt,</l>
+               <l>Should be firſt of Truth poſſeſt.</l>
+               <l>Young and conſtant he muſt be,</l>
+               <l>Fixt like you and Fond like me,</l>
+               <l>One that all affronts can bear,</l>
+               <l>Exil's, Jealouſies, Deſpair;</l>
+               <l>One on whom you may depend,</l>
+               <l>For a Lover and a Friend,</l>
+               <l>Plead not now for an excuſe,</l>
+               <l>Man does naught like this produce:</l>
+               <l>
+                  <pb n="27" facs="tcp:96476:25"/>Juſtice, Madam, bids you ſee,</l>
+               <l>All theſe qualities in me.</l>
+               <l>Juſtice tells you I am He.</l>
+            </div>
+            <div type="poem">
+               <pb n="28" facs="tcp:96476:26"/>
+               <head>TO A GENTLEMAN ON HIS Being Jilted.</head>
+               <l>JIlted! 'Tis ſtrange that you who know,</l>
+               <l>What women think as well as do,</l>
+               <l>Should in your gueſſes be deceiv'd,</l>
+               <l>But yet 'tis ſtranger you believ'd.</l>
+               <l>Have not you often ſaid that none,</l>
+               <l>About this dam'd intriguing Town,</l>
+               <l>
+                  <pb n="29" facs="tcp:96476:26"/>Could ſcape your knowledge but you knew,</l>
+               <l>How matters went and who Kept who;</l>
+               <l>What Cit, or Worſhip, or my Lord,</l>
+               <l>Allow'd for Lodgings, Pins, or board;</l>
+               <l>What tricks the keeping fools were play'd,</l>
+               <l>Where, when, by whom and how betray'd,</l>
+               <l>No int'reſt, Sir, could yours deſtroy.</l>
+               <l>You ſtill came in and ſhar'd the Joy.</l>
+               <l>But when you pleas'd Keep your ſelf,</l>
+               <l>And throw away a little Pelf,</l>
+               <l>Your Miſtreſs's were all ſo true,</l>
+               <l>They would not touch a man but you:</l>
+               <l>F—! After this 'tis ſomething hard,</l>
+               <l>That others ſhould be now prefer'd.</l>
+               <l>But come, conſider 'tis no more</l>
+               <l>Than Thouſands have endur'd before;</l>
+               <l>
+                  <pb n="30" facs="tcp:96476:27"/>Conſider this will be the Trade,</l>
+               <l>While ſuch as ſell their Love are paid,</l>
+               <l>And there are Cullyes to be had.</l>
+               <l>Whilſt women, if they once begin</l>
+               <l>To wanton, doat upon the ſin,</l>
+               <l>Whilſt nature teaches them to cheat,</l>
+               <l>Or they find pleaſure in deceit;</l>
+               <l>In ſhort, while men and women live,</l>
+               <l>Tho One will ask, the Other give.</l>
+            </div>
+            <div type="poem">
+               <pb n="31" facs="tcp:96476:27"/>
+               <head>TO LUCINDA, ON HER <hi>Recovery from an Indiſpoſition.</hi>
+               </head>
+               <l>HEaven, <hi>Lucinda,</hi> could not long,</l>
+               <l>Suffer one ſo Fair and Young,</l>
+               <l>Little able to ſuſtain,</l>
+               <l>All the injury of pain;</l>
+               <l>To be toucht with a diſeaſe,</l>
+               <l>Which might interrupt her Eaſe,</l>
+               <l>
+                  <pb n="32" facs="tcp:96476:28"/>Heaven always guards the fair,</l>
+               <l>Beauty's always heavens care.</l>
+               <l>Yes, <hi>Lucinda</hi> is we find,</l>
+               <l>Still the Same in face and mind.</l>
+               <l>See her Beauties how they ſhine,</l>
+               <l>Perfect all and all divine.</l>
+               <l>See how each returning grace,</l>
+               <l>Points her eyes and paints her face;</l>
+               <l>The Lilly and the roſe ſucceed</l>
+               <l>The ſickly white and Glowing Red,</l>
+               <l>Ah! but ſee that cruel Pride,</l>
+               <l>Which we only wiſh had dy'd,</l>
+               <l>Waits at every glance again,</l>
+               <l>Little mortifi'd by Pain,</l>
+               <l>Settles in her eyes and ſhows,</l>
+               <l>Love and ſhe will ſtill be foes;</l>
+               <l>
+                  <pb n="33" facs="tcp:96476:28"/>Had her Sickneſs with its ſmart</l>
+               <l>Toucht and mollifi'd her Heart,</l>
+               <l>Then her illneſs wouid have prov'd</l>
+               <l>Happy ills for ſuch as Lov'd;</l>
+               <l>Had it made her undergo</l>
+               <l>Half the Torments Lovers know,</l>
+               <l>Pitty would not now at leaſt</l>
+               <l>Have been a ſtranger to her Breaſt;</l>
+               <l>And pitty when it comes ſo near,</l>
+               <l>Tells us Paſſion is not far,</l>
+               <l>Unconcern'd at Health or Pain,</l>
+               <l>Still ſhe flatters her diſdain,</l>
+               <l>Ever fixt to be ſevere,</l>
+               <l>Se it Lovers and Deſpair</l>
+            </div>
+            <div type="poem">
+               <pb n="34" facs="tcp:96476:29"/>
+               <head>THE Reſpectful Lover.</head>
+               <l>MY Miſtreſs is I own above</l>
+               <l>The humble proffer of my Love;</l>
+               <l>In Juſtice yet ſhe muſt confeſs,</l>
+               <l>That nothing can diſturb her leſs;</l>
+               <l>It never durſt offend her Ear,</l>
+               <l>With what ſhe is averſe to hear:</l>
+               <l>But yielding to a juſt Deſpair,</l>
+               <l>'Tis modeſt ſtill, as ſhe is Fair;</l>
+               <l>It wiſhes much, and none that ſee</l>
+               <l>Such Beauty are from Wiſhes free;</l>
+               <l>
+                  <pb n="35" facs="tcp:96476:29"/>It hopes for little, naught requires,</l>
+               <l>Nor yet diſcover'd its deſires;</l>
+               <l>It dares not, or it knows not how,</l>
+               <l>To tell her what ſhe ought to know;</l>
+               <l>How long I have endur'd the Pain,</l>
+               <l>To Love, and wiſh, and not obtain;</l>
+               <l>To find my Paſſion is unknown,</l>
+               <l>Or, what ſhe ſees ſhe will not own,</l>
+               <l>Or what ſhe coldly may regard,</l>
+               <l>She thinks unworthy a Reward.</l>
+            </div>
+            <div type="ode">
+               <pb n="36" facs="tcp:96476:30"/>
+               <head>THE Secend ODE OF ANACREON. <hi>Tranſlated out of the Greek.</hi>
+               </head>
+               <l>NAture for defence affords</l>
+               <l>Fins to Fiſh, Wings to Birds,</l>
+               <l>Hoofs to Horſes, Claws to Bears,</l>
+               <l>Swiftneſs to the fearful Hares,</l>
+               <l>To Man, their Maſter, Wit and Senſe,</l>
+               <l>But what have Women for defence?</l>
+               <l>
+                  <pb n="37" facs="tcp:96476:30"/>Beauty is their ſhield and Arms,</l>
+               <l>Women's Weapons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Charms;</l>
+               <l>Beauties Weapons make us feel</l>
+               <l>Deeper Wounds than thoſe of Steel,</l>
+               <l>Beauty kindles warm deſires,</l>
+               <l>Stronger than the fierceſt Fires;</l>
+               <l>Strength and Wit before it fall,</l>
+               <l>Beauty Triumphs over all.</l>
+            </div>
+            <div type="poem">
+               <pb n="38" facs="tcp:96476:31"/>
+               <head>Written Extempore in a Young Lady's <hi>Almanack.</hi>
+               </head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>THink, bright <hi>Myrtilla,</hi> when you ſee</l>
+                  <l>The conſtant Changes of the Year,</l>
+                  <l>That nothing is from Ruin free,</l>
+                  <l>And Gayeſt things muſt diſappear.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Think of your Glories in their Bloom,</l>
+                  <l>The Spring of Sprightely youth improve,</l>
+                  <l>For cruel Age, alas! will come,</l>
+                  <l>And then 'twill be too late to Love.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="39" facs="tcp:96476:31"/>
+               <head>TO Cleora.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>YOU ſay you never think of Love,</l>
+                  <l>Or know not what it is;</l>
+                  <l>Nor ever had deſires to prove</l>
+                  <l>The ſweetneſs of the bliſs.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>'Tis true, you ſay't, and we believe,</l>
+                  <l>However ſtrange it ſeems,</l>
+                  <l>You may not wiſh, but pray forgive,</l>
+                  <l>If we miſtruſt your Dreams.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="40" facs="tcp:96476:32"/>
+                  <head>III.</head>
+                  <l>A ſleep your prejudice is gone,</l>
+                  <l>And nothing ſow'rs the mind,</l>
+                  <l>Your wiſhes then a pace come on,</l>
+                  <l>And force you to be kind.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>The Angels who your ſlumbers guard,</l>
+                  <l>Your tender Breaſt inſpire</l>
+                  <l>With Love, and Sing the dear reward</l>
+                  <l>Of every ſoft deſire.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>But when you wake 'tis all forgot,</l>
+                  <l>The Viſion flies away;</l>
+                  <l>And in the Night what power it got,</l>
+                  <l>It looſes in the day.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="41" facs="tcp:96476:32"/>
+                  <head>VI.</head>
+                  <l>Your Kindneſs is to ſhades confin'd,</l>
+                  <l>And dies before the Light,</l>
+                  <l>By day <hi>Cleora</hi> then be kind,</l>
+                  <l>Or be it ever night.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="42" facs="tcp:96476:33"/>
+               <head>OUT OF PETRONIUS. <hi>An Imitation.</hi>
+               </head>
+               <l>FRuition is at beſt but ſhort,</l>
+               <l>A ſilly fulſom fleeting ſport,</l>
+               <l>Which when we've perfectly enjoy'd,</l>
+               <l>We're quickly weary, quickly cloy'd;</l>
+               <l>Let's then no more pollute our Breaſts,</l>
+               <l>With fires becoming only Beaſts,</l>
+               <l>Or ruſh on pleaſures, which when known,</l>
+               <l>We wiſh it never had been done:</l>
+               <l>
+                  <pb n="43" facs="tcp:96476:33"/>But thus, Oh! thus let's lye and Kiſs</l>
+               <l>Eternity away in bliſs,</l>
+               <l>No trouble here, or pain you'll find,</l>
+               <l>Nor need you bluſh for being kind;</l>
+               <l>Theſe Raptures, <hi>Cloe,</hi> never ceaſe,</l>
+               <l>They pleaſe us now, and ſtill will pleaſe,</l>
+               <l>They ne're decay as others do,</l>
+               <l>But thus, Oh! Thus are always new.</l>
+            </div>
+            <div type="poem">
+               <pb n="44" facs="tcp:96476:34"/>
+               <head>OUT OF CATULLUS.</head>
+               <l>
+                  <hi>LIsbia</hi> let us Live and Love,</l>
+               <l>All our little time improve;</l>
+               <l>Mirth and Pleaſure crown our daies,</l>
+               <l>Spite of what the Dotard ſays,</l>
+               <l>If the Suns may ſet, they riſe</l>
+               <l>Bright again, and gild the Skies.</l>
+               <l>Put our Day depriv'd of Light,</l>
+               <l>Sleep ſucceeds, and endleſs night,</l>
+               <l>An Hundred, now a Thouſand more,</l>
+               <l>Another hundred warm and cloſe,</l>
+               <l>Another thouſand, preſs 'em thus;</l>
+               <l>Give me kiſſes, I am poor,</l>
+               <l>
+                  <pb n="45" facs="tcp:96476:34"/>When the thouſands num'rous grow,</l>
+               <l>Kiſs again that none may know</l>
+               <l>What you lend, or what I owe,</l>
+               <l>While I in groſs with haſt repay,</l>
+               <l>And kiſs Eternity away.</l>
+            </div>
+            <div type="song">
+               <pb n="46" facs="tcp:96476:35"/>
+               <head>SONG</head>
+               <byline>Set by Mr. <hi>Akevoyde.</hi>
+               </byline>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>FYE <hi>Coelia!</hi> Scorn the little arts</l>
+                  <l>Which meaner Beauties uſe,</l>
+                  <l>Who think they can't ſecure our Hearts,</l>
+                  <l>Unleſs they ſtill refuſe,</l>
+                  <l>Are coy and ſhy, will ſeem to frown</l>
+                  <l>To raiſe our Paſſions higher;</l>
+                  <l>But when the poor deceit is known,</l>
+                  <l>It quickly palls deſire.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="47" facs="tcp:96476:35"/>
+                  <head>II.</head>
+                  <l>Come let's not trifle time away,</l>
+                  <l>Or ſtop you know not why;</l>
+                  <l>Your Bluſhes, and your Eyes betray</l>
+                  <l>What Death you mean to dye:</l>
+                  <l>Let all your maiden fears be gone,</l>
+                  <l>And Love no more be croſt,</l>
+                  <l>Ah! <hi>Coelia</hi> when the Joys are known,</l>
+                  <l>You'll curſe the Minute's loſt.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="48" facs="tcp:96476:36"/>
+               <head>SONG <hi>Sung at</hi> York-Buildings.</head>
+               <byline>Set <hi>by Mr.</hi> King.</byline>
+               <lg>
+                  <l>IF <hi>Corinna</hi> would but hear,</l>
+                  <l>What impatient Love could ſay,</l>
+                  <l>She would baniſh idle ſear,</l>
+                  <l>And with eaſe his Laws obey;</l>
+                  <l>She would ſoon approve the Song,</l>
+                  <l>Like the Voice, and bleſs the Tongue.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="49" facs="tcp:96476:36"/>
+                  <head>II.</head>
+                  <l>Since to Silence I'm confin'd,</l>
+                  <l>Sighs and Ogles muſt declare,</l>
+                  <l>What Torments my thoughtful mind,</l>
+                  <l>How I wiſh, and how deſpair;</l>
+                  <l>All the motions of my Heart,</l>
+                  <l>Sighs and Ogles muſt impart.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="50" facs="tcp:96476:37"/>
+               <head>SONG</head>
+               <byline>Set by Mr. <hi>Williams.</hi>
+               </byline>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>WHen with <hi>Flavia</hi> I am toying,</l>
+                  <l>She with little ſports gives o're,</l>
+                  <l>Kiſſing is not half Enjoying,</l>
+                  <l>Youth and Paſſion covet more;</l>
+                  <l>Every touch methinks ſhould move her,</l>
+                  <l>And to dearer Joys invite,</l>
+                  <l>When ſhe knows how much I Love her,</l>
+                  <l>And is fond of the delight.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="51" facs="tcp:96476:37"/>
+                  <head>II.</head>
+                  <l>Oh, I ſee her young and tender,</l>
+                  <l>Feel her Lips with paſſion warm,</l>
+                  <l>See her ready to ſurrender,</l>
+                  <l>When her fears diſſolve the Charm:</l>
+                  <l>Baniſh <hi>Flavia!</hi> all ſuſpicion,</l>
+                  <l>All your ſullen doubts deſtroy,</l>
+                  <l>Truſt me, there's no worſe condition,</l>
+                  <l>Than to wiſh and not Enjoy.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="52" facs="tcp:96476:38"/>
+               <head>SONG</head>
+               <byline>Set by Mr. <hi>King.</hi>
+               </byline>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>THoſe arts which common Beauty's move,</l>
+                  <l>
+                     <hi>Corinna,</hi> you deſpiſe;</l>
+                  <l>You think there's nothing wiſe in Love,</l>
+                  <l>Or Eloquent in Sighs.</l>
+                  <l>You laugh at Ogle, Cant, and Song,</l>
+                  <l>And promiſes abuſe,</l>
+                  <l>But ſay — for I have courted long,</l>
+                  <l>What methods ſhall I uſe</l>
+               </lg>
+               <lg n="2">
+                  <pb n="53" facs="tcp:96476:38"/>
+                  <head>II.</head>
+                  <l>We muſt not praiſe your Charms and Wit,</l>
+                  <l>Nor talk of Dart and Flame;</l>
+                  <l>But ſometimes you can think it fit</l>
+                  <l>To ſmile at what you blame.</l>
+                  <l>Your Sex's forms, which you diſown,</l>
+                  <l>Alas! You can't forbear,</l>
+                  <l>But in a minute ſmile and frown,</l>
+                  <l>Are tender and ſevere.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>
+                     <hi>Corinna,</hi> let us now be free,</l>
+                  <l>No more your Arts perſue,</l>
+                  <l>Unleſs you ſuffer me to be</l>
+                  <l>As whimſical as you.</l>
+                  <l>
+                     <pb n="54" facs="tcp:96476:39"/>At laſt the vain diſpute deſiſt,</l>
+                  <l>To Love reſign the Field;</l>
+                  <l>'Twas cuſtom forc'd you to reſiſt,</l>
+                  <l>And cuſtom bids you yield.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="55" facs="tcp:96476:39"/>
+               <head>
+                  <hi>Epigram</hi> On a pert, ſlovenly Satyriſt.</head>
+               <l>PRithee <hi>W—s</hi> don't write Satire,</l>
+               <l>Thou know'ſt nothing of the matter;</l>
+               <l>If thou would'ſt be wiſe and dapper,</l>
+               <l>Keep clean thy Face and <hi>eke</hi> thy paper.</l>
+            </div>
+            <div type="epigrams">
+               <pb n="56" facs="tcp:96476:40"/>
+               <head>Some Epigrams OF BOILEAU's</head>
+               <div type="epigram">
+                  <head>Imitated.</head>
+                  <l>IN Vain, my foes have try'd a thouſand ways</l>
+                  <l>To rob my Verſes of their little praiſe;</l>
+                  <l>But if the Fools would eaſily prevail,</l>
+                  <l>Let <hi>P</hi>— own my Works, they cannot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ail.</l>
+               </div>
+               <div type="epigram">
+                  <pb n="57" facs="tcp:96476:40"/>
+                  <head>Another.</head>
+                  <l>PIty me, <hi>Sergeant,</hi> I'm undone,</l>
+                  <l>To morrow comes my Tryal on;</l>
+                  <l>
+                     <hi>R—r</hi> comes out, and you will ſee</l>
+                  <l>With the ſame Cannon he will roar,</l>
+                  <l>Which mawl'd poor <hi>Shakeſpear</hi> heretofore;</l>
+                  <l>And now comes thundring down on me.</l>
+                  <l>'Tis done! my fatal hour is come,</l>
+                  <l>Not that my Muſe can find her doom,</l>
+                  <l>In any thing that he has ſaid;</l>
+                  <l>But yet to Anſwer him, my friend,</l>
+                  <l>The task would ne're be at an end,</l>
+                  <l>Alas! the Critick muſt be read.</l>
+               </div>
+               <div type="epigram">
+                  <pb n="58" facs="tcp:96476:41"/>
+                  <head>Another.</head>
+                  <l>AS I walk't by th' <hi>Exchange,</hi> I heard a brisk Fop</l>
+                  <l>Diſputing one day in my Bookſeller's Shop,</l>
+                  <l>That <hi>Beaumont</hi> to <hi>Burnet</hi> had never reply'd,</l>
+                  <l>And the Caſe to <hi>Dick Parker</hi> was leſt to be try'd.</l>
+                  <l>Yes, Sirs, it was Printed, I've reaſon to know,</l>
+                  <l>Cries <hi>Dick,</hi> let me ſee, 'twas ſome 3 years ago;</l>
+                  <l>He added, beyond all diſpute to remove it,</l>
+                  <l>He'd bring 'em an hundred fair Copies to prove it.</l>
+                  <l>Nay, quoth I, coming up, 'tis too many, you're out,</l>
+                  <l>I ne're heard the Book went ſo often about;</l>
+                  <l>You ſay right, Sir, ſays he, you may prove it your ſelf,</l>
+                  <l>Look up, there's an hundred and more on my Shelf.</l>
+               </div>
+            </div>
+            <div type="poem">
+               <pb n="59" facs="tcp:96476:41"/>
+               <head>THE Seventh Satire OF BOILEAU, <hi>Engliſh'd.</hi>
+               </head>
+               <l>NO more, my Muſe, ſince Satire don't prevail,</l>
+               <l>Let's change our Stile for once, and ceaſe to rail;</l>
+               <l>'Tis an ill Trade, and we have often found,</l>
+               <l>Inſtead of giving, we receive the wound.</l>
+               <l>Many a poor Poet, by his Rage inflam'd,</l>
+               <l>Has miſt his aim, and ſeen his Writings damn'd,</l>
+               <l>
+                  <pb n="60" facs="tcp:96476:42"/>And where, perhaps, he thought he rally'd beſt,</l>
+               <l>Some ſurly Rogue has drub'd him for the jeſt.</l>
+               <l>A tedious Panegerick coldly wrote,</l>
+               <l>Is bundl'd up, and may at leiſure rot:</l>
+               <l>It fears no Cenſures, differing or unjuſt,</l>
+               <l>And has no Enemies but moth and duſt.</l>
+               <l>But ſuch malitious Authors are not ſafe,</l>
+               <l>Who laugh themſelves, and make their Readers Laugh;</l>
+               <l>Whom when we Read, we blame, yet ſtill read on,</l>
+               <l>Who think that all is Lawful they have done,</l>
+               <l>And can't, alas! their merry Fits forego,</l>
+               <l>Tho' every grin engages them a foe.</l>
+               <l>A Poem ſoon offends, if too ſevere,</l>
+               <l>For each will think he ſees his Image there;</l>
+               <l>And he who reads it, may applaud your Art,</l>
+               <l>Yet Curſes, Fears, and Hates you form his Heart.</l>
+               <l>
+                  <pb n="61" facs="tcp:96476:42"/>Forget it then, my Muſe, and change thy ſtrain,</l>
+               <l>The Itch of Satire makes thee write in vain;</l>
+               <l>Go learn to Praiſe, and ſearch among the Throng</l>
+               <l>Of Hero's, one deſerving of thy Song;</l>
+               <l>But oh! For what would I thy Spirits raiſe,</l>
+               <l>I ſcarce can blunder out a Rhime for praiſe;</l>
+               <l>As ſoon as I indeavour thus to riſe,</l>
+               <l>My fancy flags, and all my fury dies,</l>
+               <l>I ſcratch my Head, I bit my Nails in vain,</l>
+               <l>For all this mighty Labour of my Brain,</l>
+               <l>Brings nothing leſs unnatural abroad,</l>
+               <l>Than <hi>Blackmore's</hi> Poem, or than <hi>C</hi>—'s Ode,</l>
+               <l>I think I'm rack'd when Praiſes muſt be wrote,</l>
+               <l>My Pen reſiſts me, and my Paper blots;</l>
+               <l>But when I am to rail my thoughts are fir'd,</l>
+               <l>Then, only then, I know I am Inſpir'd.</l>
+               <l>As ſoon as I invoke, <hi>Apollo</hi> hears,</l>
+               <l>The God is ready ſtill to grant my Pray'rs:</l>
+               <l>
+                  <pb n="62" facs="tcp:96476:43"/>I think with pleaſure, and I write with eaſe,</l>
+               <l>My Words, my Numbers, and the Subject pleaſe.</l>
+               <l>Were I to Paint the Raskal of the Town,</l>
+               <l>My Hand, before I think, writes <hi>T—r</hi> down.</l>
+               <l>Were I to mark you out a perfect Sot,</l>
+               <l>My Pen points preſently to M—<hi>ot.</hi>
+               </l>
+               <l>I find my Genius with my Wit agrees,</l>
+               <l>To mawl a trifling Rhimer as I pleaſe,</l>
+               <l>My Verſe comes breaking like a Tempeſt down,</l>
+               <l>At once you meet with <hi>B—y, Banks</hi> and <hi>Crown;</hi>
+               </l>
+               <l>With <hi>Y—n,</hi> G—<hi>n, P—, Durfey, Brown,</hi>
+               </l>
+               <l>And for one ſcribling Blockhead I have nam'd,</l>
+               <l>I find a Thouſand more ſtand ready to be damn'd.</l>
+               <l>In Triumph then my Fury haſtens on,</l>
+               <l>And I in private joy at what is done;</l>
+               <l>In vain amidſt its courſe I would engage,</l>
+               <l>To ſtop the Impetuous Torrent of my Rage;</l>
+               <l>
+                  <pb n="63" facs="tcp:96476:43"/>In vain, I would at leaſt ſome perſons ſpare,</l>
+               <l>My Pen ſtrikes all, and will not one forbear.</l>
+               <l>When the mad Fit has maſter'd me, you know</l>
+               <l>What follows—Fly,—if you would miſs the Blow.</l>
+               <l>Merit, however, I will always prize,</l>
+               <l>But Fools provoke me, and offend my Eyes:</l>
+               <l>I follow 'em as a Dog purſues his Prey,</l>
+               <l>And bark when e're I ſmell 'em in my way:</l>
+               <l>I know, to ſay no more, if Wit is ſcarce,</l>
+               <l>To gingle out a Rhime, or tag a Verſe:</l>
+               <l>Or Cobble wretched Proſe to numerous Lines:</l>
+               <l>There, if I have a Genius, there it ſhines.</l>
+               <l>Thus tho ev'n Death, with all the Fears he brings,</l>
+               <l>Were hov'ring o're to ſeize me in his ghaſtly Wings;</l>
+               <l>
+                  <pb n="64" facs="tcp:96476:44"/>Tho Heaven ſecur'd me in a laſting Peace,</l>
+               <l>With all the City Pomp, or Countrey Eaſe:</l>
+               <l>Tho the whole world ſhould think themſelves abus'd,</l>
+               <l>At what my Pen had in its rage produc'd;</l>
+               <l>Yet merry, melancholly, rich or Poor,</l>
+               <l>I ſhould not ceaſe to Rhime, but write the more,</l>
+               <l>Poor Muſe, I pity thee, ſome Fop will ſay,</l>
+               <l>Ceaſe your Reſentments, and your Heats allay,</l>
+               <l>The fool you publiſh in an angry mood,</l>
+               <l>May quench this thirſt of Satire in your Blood:</l>
+               <l>But why? When <hi>Horace</hi> and <hi>Lucilius</hi> ſhew</l>
+               <l>What wit in Vertues Quarrel ought to do.</l>
+               <l>The Vapours of their Choller thus exhal'd,</l>
+               <l>Their Satire faught for Vertue, and prevail'd</l>
+               <l>With all the Tranſports of a Noble Rage,</l>
+               <l>They baffl'd and unmask'd the Vices of the Age.</l>
+               <l>
+                  <pb n="65" facs="tcp:96476:44"/>Why! When the furious Pen of <hi>Juvenal</hi>
+               </l>
+               <l>Ran o're with Floods of Bitterneſs and Gall,</l>
+               <l>Inſulting freely o're the <hi>Roman</hi> Crimes,</l>
+               <l>And laſhing all the Follies of the Times,</l>
+               <l>Yet ſafely to the Laſt the Wits did rave,</l>
+               <l>Not one of them was cudgell'd to his grave,</l>
+               <l>Why then ſhould I a Coxcomb's anger fear?</l>
+               <l>Where do's my manner or my name appear?</l>
+               <l>I don't, like <hi>W</hi>—, Impudently great,</l>
+               <l>With Rhimes and Satires every fool I meet,</l>
+               <l>Or tumble o're my Verſes in the Street.</l>
+               <l>Sometimes indeed, yet what I always dread,</l>
+               <l>Where Satire pleaſes, I am forc'd to read,</l>
+               <l>Where, if they praiſe the work I often ſee,</l>
+               <l>They Laugh <hi>a loud</hi> at that, and <hi>Low</hi> at me;</l>
+               <l>Perhaps I'm pleas'd with what they diſapprove,</l>
+               <l>And will, in ſhort, ſtill follow what I Love;</l>
+               <l>
+                  <pb n="66" facs="tcp:96476:45"/>For when a pleaſant Thought is once my own,</l>
+               <l>I am not eaſie till I write it down;</l>
+               <l>When with a ſacred Fury I am ſeiz'd,</l>
+               <l>I can't reſiſt whoever is diſpleas'd.</l>
+               <l>Enough— No more of this— let's breath a while,</l>
+               <l>My Hand at laſt grows weary of the Toil,</l>
+               <l>'Tis time, my Muſe, to end ſo harſh a ſtrain,</l>
+               <l>Enough—to morrow we'll begin again.</l>
+            </div>
+            <div type="poem">
+               <pb n="67" facs="tcp:96476:45"/>
+               <head>THE Second Satire OF BOILEAU, <hi>Engliſh'd. Inſcrib'd to</hi> Mr. —</head>
+               <l>O Happy Wit! whoſe rare and fruitful Vein.</l>
+               <l>In writing ſtill is ignorant of pain,</l>
+               <l>
+                  <pb n="68" facs="tcp:96476:46"/>For whom <hi>Apollo</hi> opens every ſtore,</l>
+               <l>Shews you his Mines, and helps you to the Ore,</l>
+               <l>Who knows ſo well, in the diſputes of Wit,</l>
+               <l>Where ſometimes to Defend, and where to hit;</l>
+               <l>Teach me, Great Maſter of your Art, to Rhime,</l>
+               <l>To ſpare my Study, and to ſave my time;</l>
+               <l>When e're you pleaſe, the happy Rhimes attend,</l>
+               <l>And wait your Summons at the Verſes end;</l>
+               <l>They ne're perplex you, but obſerve your pace,</l>
+               <l>And where you want, you find them in their place;</l>
+               <l>Whilſt I, whom Caprice, Vanity and Whim;</l>
+               <l>Have for my Sins, I fear condemn'd to Rhime,</l>
+               <l>Rack my poor thoughts in ſuch attempts as theſe,</l>
+               <l>And ſweat in vain for what you find with eaſe.</l>
+               <l>When the fit takes me, oft from Morn to Night</l>
+               <l>I ſtudy hard, but ſcribble Black for White,</l>
+               <l>
+                  <pb n="69" facs="tcp:96476:46"/>To draw the Picture of a perfect Beau,</l>
+               <l>The Rhime obliges me to name <hi>B</hi>—;</l>
+               <l>To name an Author of the firſt degree,</l>
+               <l>Reaſon's for <hi>Dryden,</hi> but the Rhime for <hi>Lee;</hi>
+               </l>
+               <l>Vext at theſe difficulties, I give o're,</l>
+               <l>Sad, weary and confus'd, reſolve to write no more;</l>
+               <l>I curſe the Spright, with which I am poſſeſt,</l>
+               <l>And ſwear to drive the <hi>Daemon</hi> from my Breaſt;</l>
+               <l>In vain I curſe <hi>Apollo</hi> and the Nine,</l>
+               <l>They quickly tempt me from my late deſign;</l>
+               <l>My Fire's rekindle, I retake my Pen,</l>
+               <l>And ſpite of all my Curſes, write again;</l>
+               <l>My Oaths forgot, my Paper I reſume,</l>
+               <l>From Verſe to Verſe attending what will come.</l>
+               <l>If for a Rhime, my Muſe in ſuch a ſit,</l>
+               <l>Would frigid words and Epithites permit,</l>
+               <l>
+                  <pb n="80" facs="tcp:96476:47"/>Or take the next I meet, and tack 'em on,</l>
+               <l>To piece a Line, 'tis what the reſt have done;</l>
+               <l>To praiſe a <hi>Phillis</hi> for a <hi>thouſand Charms;</hi>
+               </l>
+               <l>The next verſe ſhews the <hi>Poet in her Arms;</hi>
+               </l>
+               <l>When <hi>Cloris</hi> is inform'd <hi>how much he Loves,</hi>
+               </l>
+               <l>The Rhime informs you <hi>that ſhe cruel proves:</hi>
+               </l>
+               <l>When he would talk of <hi>Stars or glittering Skies,</hi>
+               </l>
+               <l>Will he not think of <hi>Caelia</hi>'s <hi>ſparkling Eyes?</hi>
+               </l>
+               <l>Caelia, <hi>Heavens Maſter-piece, Divinely Fair,</hi>
+               </l>
+               <l>The Rhime makes <hi>Caelia ſtill without compare;</hi>
+               </l>
+               <l>With all theſe ſhining words by chance com<g ref="char:EOLhyphen"/>pos'd,</l>
+               <l>The <hi>Noun</hi> and <hi>Verb</hi> an hundred times tranſpos'd.</l>
+               <l>How many Poems could I, piece by piece,</l>
+               <l>Stitch to my own, and fill a Book with caſe.</l>
+               <l>But when I write—</l>
+               <l>My Judgment trembling at the choice of words,</l>
+               <l>Not one improper to the ſenſe affords?</l>
+               <l>
+                  <pb n="81" facs="tcp:96476:47"/>It ne're allows that an inſipid Phraſe,</l>
+               <l>Should juſtle in to fill a vacant place,</l>
+               <l>But Writes, and adds, and razes what is done,</l>
+               <l>And in four words it ſeldom paſſes one.</l>
+               <l>Curſe on the Man, who in a ſenſeleſs fit,</l>
+               <l>To Rhimes and Numbers firſt confin'd his wit,</l>
+               <l>And giving to his words a narrow bound,</l>
+               <l>Firſt loſt his Reaſon for an empty ſound:</l>
+               <l>Had I ne're Travell'd in ſuch dangerous ways,</l>
+               <l>No Pains nor Envy had diſturb'd my days;</l>
+               <l>But o're my Bottle with a Jeſt and Song,</l>
+               <l>My pleaſant Minutes would have rowl'd along,</l>
+               <l>Like a Fat Prebend, careleſs and at Eaſe,</l>
+               <l>Content and Lazy, I had liv'd in peace,</l>
+               <l>Slept well at Night, and loiter'd all the Day.</l>
+               <l>From Paſſion ever free, and ever gay;</l>
+               <l>Then limiting th' Ambition of my mind,</l>
+               <l>I had not courted Fortune to be kind,</l>
+               <l>
+                  <pb n="72" facs="tcp:96476:48"/>Deſpiſing all her Pomp, I ſhould have known,</l>
+               <l>No ſtate of Life more happy than my own;</l>
+               <l>Then fond of Reſt, and negligent of Fame,</l>
+               <l>I had ne're gone to Court to get a Name,</l>
+               <l>But liv'd in private, and in full delight,</l>
+               <l>If no Malitious Power had made me write.</l>
+               <l>From the ſad hour this frenzy firſt began,</l>
+               <l>With its black Vapours to moleſt my Brain,</l>
+               <l>That ſome croſs <hi>Doemon,</hi> Jealous of my Eaſe;</l>
+               <l>Flatter'd my Muſe, ſhe had the Power to pleaſe,</l>
+               <l>Nail'd to my Works, and adding ſomething new,</l>
+               <l>Or razing out, or ſtill on the Review,</l>
+               <l>Still in this wretched Trade I paſs my days.</l>
+               <l>So low, that <hi>B</hi> —can my Envy raiſe,</l>
+               <l>Oh! happy <hi>B</hi>— thy Prodigious Muſe,</l>
+               <l>Huge Books of Verſe can in a year produce.</l>
+               <l>
+                  <pb n="73" facs="tcp:96476:48"/>True-Rude and Dull, to ſome ſhe gives offence,</l>
+               <l>And ſeems Created in deſpite of ſenſe;</l>
+               <l>Yet ſhe will find whatever we have ſaid,</l>
+               <l>Both Sots to Print her Works, and Fools to read.</l>
+               <l>If thy verſe Jingle with a lucky Rhime,</l>
+               <l>Ne're mind the Thought, but Proſecute the Chime:</l>
+               <l>Unhappy thoſe who would to Senſe confine</l>
+               <l>Their Verſe, and Genius will with Method joyn,</l>
+               <l>Since Fools have all the pleaſure, who diſpence</l>
+               <l>With Art in writing, and deſpiſe the Senſe,</l>
+               <l>Who always Fond of what they laſt brought forth,</l>
+               <l>Admire their skill, and wonder at their worth;</l>
+               <l>While Wits ſublime their utmoſt Fancies ſtretch,</l>
+               <l>To get thoſe heights at laſt they cannot reach;</l>
+               <l>
+                  <pb n="84" facs="tcp:96476:49"/>And diſcontented ſtill at what they write,</l>
+               <l>Can't pleaſe themſelves, when others they delight;</l>
+               <l>What all the World applaud they ſcarce will own,</l>
+               <l>And wiſh for their repoſe it was undone.</l>
+               <l>You then, who ſee the Ills my Muſe endures,</l>
+               <l>Shew me a way to Rhime, or teach me yours,</l>
+               <l>But leaſt I ſhould in vain your care implore,</l>
+               <l>Teach me Oh!— how to Rhime no more.</l>
+            </div>
+            <div type="poem">
+               <pb n="85" facs="tcp:96476:49"/>
+               <head>TO Dr. Turberville Of <hi>Salisbury.</hi>
+               </head>
+               <l>WHat was but little, or but faintly known,</l>
+               <l>In former Ages, ripens in our own,</l>
+               <l>The ſacred Art which we did once believe;</l>
+               <l>Too much for man to ask, or Heaven to give,</l>
+               <l>The bounteous God at laſt to you reveals,</l>
+               <l>Directs your skill, and as you uſe it, Heals.</l>
+               <l>Of old, when thick Suffuſion veil'd the ſight,</l>
+               <l>'Twas Darkneſs all, and ever during night;</l>
+               <l>
+                  <pb n="76" facs="tcp:96476:50"/>The wretch deſpair'd, and ſought no more for Aid,</l>
+               <l>But yeilded to the Horror of the ſhade;</l>
+               <l>You quickly now the Solid Clouds diſpel,</l>
+               <l>The fogs diſperſe, the riſing Vapours Quell;</l>
+               <l>You force, you melt, you drive the miſts away,</l>
+               <l>And ſhew the Raviſh'd Patient, Gladſom Day;</l>
+               <l>The Sun before with uſeleſs Luſtre ſhin'd,</l>
+               <l>On half the World, for they, Alas! were blind.</l>
+               <l>Till his full Empire was by you reſtor'd,</l>
+               <l>And Man receiv'd the Bleſſing he Implor'd,</l>
+               <l>Lookt on the Light, beheld it and Ador'd.</l>
+               <l>Pretenders, tho they do not underſtand,</l>
+               <l>Their Art, by chance, may have a Lucky hand;</l>
+               <l>Yet if one ſees amongſt a thouſand Blind</l>
+               <l>They ſtrive to help, we think their fortune kind.</l>
+               <l>
+                  <pb n="77" facs="tcp:96476:50"/>But when you touch, you give a certain cure,</l>
+               <l>Speedy and Gentle, as the methods ſure;</l>
+               <l>Like Fate you Doom, and where you promiſe Light,</l>
+               <l>The Patient riſes from the threatned Night;</l>
+               <l>Or ſinks beyond the hopes of human care,</l>
+               <l>When Heaven and you confine him to Deſpair.</l>
+               <l>A common Knowledge weak Diſtempers cures,</l>
+               <l>But great are left, for ſuch advice as yours;</l>
+               <l>And fam'd Phyſitians for a known diſeaſe,</l>
+               <l>Start at the Wonders you perform with eaſe,</l>
+               <l>To you the Blind in every caſe repair,</l>
+               <l>The Old, the Young, the Ugly and the Fair;</l>
+               <l>In all their wants, your Judgments you Diſplay,</l>
+               <l>The Old grow ſtrong, and the unhandſom Gay;</l>
+               <l>Their Sight by you defended from the rage</l>
+               <l>Of ſickneſs, force, of Accident and Age.</l>
+               <l>
+                  <pb n="88" facs="tcp:96476:51"/>Ev'n Beauty is indebted to your aid,</l>
+               <l>For many of the Conqueſts it has made;</l>
+               <l>Thoſe Eyes where Love before in triumph ſate,</l>
+               <l>Remov'd, we thought above the rage of fate,</l>
+               <l>Wore once the Token of a rude Diſeaſe,</l>
+               <l>And ſcarce had left the little charm to pleaſe;</l>
+               <l>Hopeleſs of help, from any other powers,</l>
+               <l>To you they come, and find relief by yours:</l>
+               <l>At your command the Vapours diſappear,</l>
+               <l>The Clouds are ſcatter'd, and the Sight is clear;</l>
+               <l>Their Eyes ſhake off the Burthen of the Night,</l>
+               <l>And break thro all, with the returning Light,</l>
+               <l>With vaſt ſucceſs they reaſſume their ſtate,</l>
+               <l>As the Sun riſes Brighter than he ſate.</l>
+               <l>New Graces, in thoſe radiant Circles move,</l>
+               <l>And what before we pity'd, now we Love,</l>
+               <l>
+                  <pb n="89" facs="tcp:96476:51"/>With grateful Souls your Wonders they Pro<g ref="char:EOLhyphen"/>claim;</l>
+               <l>They wiſh, you were Immortal as your Fame:</l>
+               <l>But Nature ſhortly will we fear decline,</l>
+               <l>And Death ſucceed to make you more Divine,</l>
+               <l>Oh! Could our Pray'rs th' Amighty pow'r Engage;</l>
+               <l>To ſpare you yet below another Age;</l>
+               <l>Another ſtill we ſhould be apt to crave,</l>
+               <l>And ſcarce conſent to yield you to the Grave;</l>
+               <l>Whilſt Darkneſs ſpreads, and there are men to ſave:</l>
+               <l>For robb'd of you, they muſt Embrace their Doom,</l>
+               <l>And Grope for ever in a Starleſs Gloom.</l>
+            </div>
+            <div type="poem">
+               <pb n="80" facs="tcp:96476:52"/>
+               <head>TO A Young Lady <hi>Who Commanded me</hi> To write Satire.</head>
+               <l>YOur Sex, <hi>Lucinda,</hi> other Theams ſhould chooſe,</l>
+               <l>And not impoſe ſuch hardſhips on a Muſe,</l>
+               <l>Who ne'r durſt venture, yet on nobler flights,</l>
+               <l>Than thoſe which every common Rhimer writes;</l>
+               <l>
+                  <pb n="91" facs="tcp:96476:52"/>Feilds, flowry Meadows, ſhady Woods and Groves,</l>
+               <l>The Nymphs diverſions, and the Shepherds Loves.</l>
+               <l>But now you bid me change an Idle tale,</l>
+               <l>To ſtretch my Voice and uſe my ſelf to Rail.</l>
+               <l>A thouſand wrongs provoke me to the Fight,</l>
+               <l>And what is more, <hi>Lucinda</hi> bids me write,</l>
+               <l>My Coward Muſe yet durſt not truſt her wings,</l>
+               <l>And only what ſhe can with ſafety, ſings;</l>
+               <l>She knows that <hi>Satire</hi> is a dangerous courſe,</l>
+               <l>And calls for wit, ſublimity and force.</l>
+               <l>That ev'ry <hi>Scribler</hi> ought not to engage,</l>
+               <l>To fall on vice with deſpicable rage;</l>
+               <l>For vertue ſuffers by the vain pretence,</l>
+               <l>When Fools affect to draw in its defence;</l>
+               <l>When ſuch as by their Spleen and Choller fir'd,</l>
+               <l>On every Whim ſhall think themſelves Inſpir'd.</l>
+               <l>
+                  <pb n="92" facs="tcp:96476:53"/>Who rob, the Markets, Billingſgate and ſtews,</l>
+               <l>Of names, and terms, and Curſes which they uſe,</l>
+               <l>Or furniſh'd by their breeding with enough</l>
+               <l>Of ſuch baſe matter and <hi>Plebeian</hi> ſtuff,</l>
+               <l>Publiſh their ſenſeleſs Ribaldry for Rage,</l>
+               <l>And paſs the cheat on a believing Age.</l>
+               <l>Thus we have known a ſtrange uneaſy fool,</l>
+               <l>Come ſnarling up to Town from <hi>Country School,</hi>
+               </l>
+               <l>Fall on the World with Impudence and Noiſe,</l>
+               <l>And as much freedom as he <hi>Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pt</hi> his Boys;</l>
+               <l>None in his Brutal paſſion he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uld ſpare,</l>
+               <l>Ev n <hi>Vertues</hi> ſelf his inſolence muſt be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Nor aw'd, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mper'd, by a form ſo bright,</l>
+               <l>He grow in<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>g'd his fury and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vulg'd his ſhame,</l>
+               <l>The Mob approv'd it, and the So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had Fame.</l>
+               <l>
+                  <pb n="93" facs="tcp:96476:53"/>You know, <hi>Lucinda,</hi> we by <hi>Satire</hi> mean,</l>
+               <l>No courſe <hi>Lampoon</hi> uncivil or obſcene,</l>
+               <l>Where a vile Wit ſhall nauſeous railing uſe,</l>
+               <l>Or to his paſſion proſtitute his Muſe;</l>
+               <l>A Lib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ller might then pretend to ſenſe,</l>
+               <l>Whoſe only property is Impudence,</l>
+               <l>Then common Whores for ſcolding we ſhould praiſe.</l>
+               <l>And Carmen have a Ti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>No—<hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> will in brighter Colours ſhine,</l>
+               <l>Her <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is Dreadful, but 'tis all Divine,</l>
+               <l>In her true ſhape, ſhe always will appear,</l>
+               <l>Juſt and Impartial as ſhe is ſevere;</l>
+               <l>The Court and State to her Remarks be long,</l>
+               <l>She will but ſeldom touch a private wrong,</l>
+               <l>Unleſs th' Example ſhould be underſtood,</l>
+               <l>Or private Errors threaten publick good.</l>
+               <l>But where of Late in <hi>England</hi> can we find,</l>
+               <l>A Pard of ſuch a vaſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <pb n="94" facs="tcp:96476:54"/>Who, ſcorning Loſs of fortune or of blood,</l>
+               <l>Dares venture boldly for the common good;</l>
+               <l>Whoſe Genius, fits him for the great deſign,</l>
+               <l>Where ſtrength with Grace and Majeſty ſhall joyn;</l>
+               <l>One juſtly raving, and Correctly Mad,</l>
+               <l>To raiſe the <hi>Good</hi> and Mortify the <hi>Bad?</hi>
+               </l>
+               <l>Since <hi>Dryden</hi> will, or muſt not ſpeak at leaſt,</l>
+               <l>There are None now, None like to be poſſeſt,</l>
+               <l>No Pens riſe up in Injur'd merits cauſe,</l>
+               <l>And Mine muſt never be the firſt that draws.</l>
+               <l>Let Love be ſtill the ſubject of my Song,</l>
+               <l>For Love's the proper buſineſs of the Young,</l>
+               <l>Ah! ſuffer me to tread the beaten ways,</l>
+               <l>Where I find pleaſure, if I meet no praiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </div>
+         </div>
+         <div type="letters">
+            <pb n="95" facs="tcp:96476:54"/>
+            <head>
+               <hi>TWO</hi> Letters of <hi>Voiture</hi> Tranſlated; With other occaſional Letters. To Mr. <hi>Gourdon</hi> at <hi>London.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Have had more Leiſure than I deſir'd, to ſend you what you demanded of me at parting; and the <hi>Winds,</hi> inſtead of carrying away my promiſe, have given me time to keep it. They have already detain'd me here this eight days. It would certainly have been very tedious if I had not brought thoſe Thoughts with me from <hi>London,</hi> which will entertain me yet a great while longer. I'll aſſure you, you have your ſhare of them, and that my beſt Thoughts are ſtill employ'd about you, or about <hi>thoſe Things</hi> which I ſaw by your means.</p>
+               <p>
+                  <pb n="96" facs="tcp:96476:55"/>You may well miſtruſt that I am not now talk<g ref="char:EOLhyphen"/>ing of the <hi>Tower</hi> or <hi>the Lyons,</hi> which you were pleas d to ſhew me. In one perſon only, you made me ſee a greater Treaſure than I found there; and One who is at the ſame time more <hi>Cruel</hi> than even the <hi>Lyons</hi> or the <hi>Leopards.</hi> Af<g ref="char:EOLhyphen"/>ter all this, you will quickly perceive 'tis the <hi>Counteſs</hi> of <hi>Carlile,</hi> of whom I am ſpeaking. For there is none beſides her, of whom I can ſay ſo much Good, and ſo much Ill. What<g ref="char:EOLhyphen"/>ever danger there is in remembring her, I have not yet been able to forbear it. And to be ſincere, I would not part with the Idea I have of her in my Breaſt, for all that I have ſeen of what is moſt Fair, or moſt deſirable in the World. I muſt confeſs ſhe is all over a very Bewitching Lady; and there would not be a perſon under Heaven ſo worthy to be <hi>Belov'd,</hi> if ſhe knew what <hi>Love</hi> was, or if her Soul were but as <hi>Senſible,</hi> as it is <hi>Reaſonable.</hi>
+               </p>
+               <p>We can ſay nothing of her in the condition we know her, but that ſhe is the moſt <hi>Lovely</hi> of all things which are not good, and the moſt agreeable Poyſon that ever Nature made. I fear her Wit ſo much, that I was once reſolv'd not to let you have the Verſes I ſend you; for I know ſhe diſtinguiſhes in all things, what is Good and what is ill, and that the Goodneſs which ought to be in her Will, is wholly con<g ref="char:EOLhyphen"/>fin'd to her Judgment. I ſhall be little con<g ref="char:EOLhyphen"/>cern'd
+<pb n="97" facs="tcp:96476:55"/>
+if ſhe condemns them; they are not worthy of a better fortune; they were made be<g ref="char:EOLhyphen"/>fore I had the Honour to know Her; and I ſhould be ſorry if had, till now, <hi>prais'd</hi> or <hi>blam'd</hi> any one to Perfection, ſince I reſerve both the one and the other for her.</p>
+               <p>As to you, Sir, I will not make any Excuſe, I pretend you are very much oblidg'd to me, and ought to take it kindly that you have been able to perſwade me to ſend you ſome bad Verſes. I can aſſure you 'tis the only Copy I ever writ twice over; And if you know how Lazy I am, you will reckon my Obedience in this, no ſmall proof of the Power you have over me, and of the Paſſion, with whlch I would be,</p>
+               <closer>
+                  <salute>Sir,</salute>
+                  <signed>&amp;c.</signed>
+                  <dateline>
+                     <hi>Dover,</hi>
+                     <date>
+                        <hi>Decemb.</hi> 4th. 1633.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="98" facs="tcp:96476:56"/>
+               <head>TO <hi>Madam</hi> SAINTOT, Sent with an Orlando Furioſo.</head>
+               <p>THis, <hi>Madam,</hi> is certainly the Nobleſt Ad<g ref="char:EOLhyphen"/>venture of <hi>Orlando.</hi> For now that he has the Honour to Kiſs your Hands, he performs ſomething more for his own Glory, than when he forc'd Scepters from the hands of Kings, and alone, defended the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rown of <hi>Charles</hi> the <hi>Great.</hi> The Title of <hi>Furioſo,</hi> with which he has paſt all over the World, ought not to deter you from doing him that Honour. For I am confident, that in approaching you, he will become more Diſcreet, and as ſoon as he ſees you; will forget
+<pb n="99" facs="tcp:96476:56"/>
+his <hi>Angelica.</hi> At leaſt this I know by Experi<g ref="char:EOLunhyphen"/>ence, that you have wrought a greater Miracle than this, and with one Word have Cur'd a Folly more dangerous than his. And indeed 'twould be more Improbable than any thing <hi>Ariosto</hi> has told us of him, if he were not ſen<g ref="char:EOLhyphen"/>ſible of the Advantage you have over that La<g ref="char:EOLhyphen"/>dy; and if he did not confeſs, that ſhe would never have ſo much need, as in your pre<g ref="char:EOLhyphen"/>ſence to fly to the Aſſiſtance of her In<g ref="char:EOLhyphen"/>chanted Ring. All the <hi>Famous Knights</hi> in the World were not proof againſt the Charms of that Beauty. She never ſtruck the Eyes of any, but at the ſame time ſhe wounded an Heart, and Inflam'd with her Love, as many Parts of the World, as the Sun Enlightens; yet that Beauty was but a Picture ill Drawn of the wonderful Things we admire in you.</p>
+               <p>All the Collours of Poetry cannot Paint you ſo Fair as we behold you; nor can the Imagina<g ref="char:EOLhyphen"/>tion of Poets reach to ſuch a height. The Chambers of Chryſtal and the Palaces of Di<g ref="char:EOLhyphen"/>amonds, which you will read of here, are far more eaſy to be imagin'd. And the Enchant<g ref="char:EOLhyphen"/>ments of <hi>Amadis,</hi> which appear to you ſo In<g ref="char:EOLhyphen"/>credible, are hardly more Incredible than your Own. At the firſt ſight, to ſeize upon Souls the moſt Reſolute, and the leaſt made for Ser<g ref="char:EOLhyphen"/>vitude; to Create in them a ſort of Love, which is ſenſible of Reaſon and Ignorant both of Hope and Deſire; to Tranſport with Plea<g ref="char:EOLhyphen"/>ſure
+<pb n="100" facs="tcp:96476:57"/>
+and Glory, the Minds of thoſe from whom you have Raviſh't Repoſe and Liberty, and to render thoſe perfectly ſatisfied with you, to whom you never were but Cruel. Theſe are effects more ſtrange and more diſtant from Probability, than the <hi>Hippogrifes</hi> and flying Chariots of <hi>Arioſto,</hi> or any of the moſt Admi<g ref="char:EOLhyphen"/>rable things <hi>Romances</hi> tell us of. If I ſhou'd continue this Diſcourſe, I ſhou'd make a Book larger than this I ſend you. But this <hi>Cavalier,</hi> who is not us'd to give place to any Man, is impatient to ſee me Addreſs you ſo long, and therefore Advances to Raccount you himſelf the Hiſtory of his <hi>Amours.</hi> 'Tis a Favour which you have often refus'd to me. Yet I ſuffer him to do it without Jealouſy, tho he is ſo much happier than I, ſince he has promis'd me, in re<g ref="char:EOLhyphen"/>turn, to preſent you with theſe Lines, and oblige you to read them before any thing elſe.</p>
+               <p>This is an Enterpriſe which requires a Courage equal to his, to undertake, and yet I am doubt<g ref="char:EOLhyphen"/>ful how it will ſucceed with him; however, me<g ref="char:EOLhyphen"/>thinks 'tis but juſt, that ſince I give him the Means to Entertain you with his Paſſion, he ſhou'd acquaint you with ſomething of Mine, and that amongſt ſo many Fables he ſhould inform you of ſome Truths. I know you will not always be inclin'd to hear them; tho ſince
+<pb n="101" facs="tcp:96476:57"/>
+you are to be Touch't by none of them, and that my reſpect is too much a Trifle to move your Reſentment, there can be no great Dan<g ref="char:EOLhyphen"/>ger in letting you know, that I eſteem you alone above all the reſt of the World: To com<g ref="char:EOLhyphen"/>mand which, I ſhould not be ſo Proud, as to O<g ref="char:EOLhyphen"/>bey you.</p>
+               <closer>
+                  <signed>I am, Madam, Yours, <hi>&amp;c.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="102" facs="tcp:96476:58"/>
+               <head>TO Mr. WALTER <hi>At</hi> ROME.</head>
+               <p>WE admir'd we heard nothing from you in a long time; but by your laſt we per<g ref="char:EOLhyphen"/>ceive you were making a Tour from <hi>Rome</hi> to <hi>Naples,</hi> and kept us in ſuſpence during your ab<g ref="char:EOLhyphen"/>ſence from <hi>Rome,</hi> that you might make us more happy when you came back, in a Diſcription of what you ſaw at <hi>Naples.</hi> You remember, Sir, how often I envy'd you the Happineſs you were going to Enjoy in the proſpect of thoſe Delicious Countries, which gave birth to the beſt Muſes of Antiquity. I have ſince often wiſh'd my ſelf with you in your Pilgrimage to <hi>Virgils</hi> Tomb.</p>
+               <p>
+                  <pb n="103" facs="tcp:96476:58"/>But now we can hear of your being at <hi>Rome, Naples, Mantua, Verona, &amp;c.</hi> without the leaſt Emulation. We could no longer have any ſa<g ref="char:EOLhyphen"/>tisfaction in treading thoſe paths which were before trod by <hi>Catullus, Virgil,</hi> and <hi>Horace.</hi> For a Perſon of good Quality has aſſur'd us, the Ancients were a parcel of thoughtleſs, muſty Fellows; that <hi>Virgil</hi> can hardly paſs on him for a good maker of Ditties, and his Georgicks are fit only for Plow-men and Drovers. That <hi>Horace</hi> muſt give place to Mr. <hi>D—y;</hi> but truly <hi>Catullus</hi> had a pretty merry way with him, tho we have a great many People of Quality who are more Gay, and underſtand Delicacy, Love and Gallantry much better.</p>
+               <p>I think you never deſign'd to go ſo far as the <hi>Morea,</hi> or to pay a Viſit to Old <hi>Athens;</hi> and 'tis well you did not give your ſelf that trouble. The <hi>Greeks</hi> have utterly loſt their Reputation; you would not have been reſpected a whit the more for breathing over the Aſhes of <hi>Sophocles, Euripides</hi> and <hi>Menander. Homer's Achillis,</hi> is no more to us now, than a <hi>Don Bellianis,</hi> and <hi>The<g ref="char:EOLhyphen"/>ocritus</hi> is oblidg'd to Veil the Bonnet to ſome of our <hi>Sawneys</hi> and <hi>Jockeys.</hi>
+               </p>
+               <p>But if this Honourable Critick has been ſo ſevere with the Ancients, he is wondrous kind to the Moderns. He has ſecur'd Prince <hi>Arthur</hi>'s Reputation, and thinks it, at leaſt, ſit to be com<g ref="char:EOLhyphen"/>par'd with <hi>Milton's Paradice Loſt.</hi> We muſt
+<pb n="104" facs="tcp:96476:59"/>
+confeſs the Poem ſtands fair in the Opinion of ſome honeſt, well-meaning Gentlemen. But you will never forgive any Man, by what Name or Title ſoever Dignifi'd or Diſtinguiſh'd, who ſhall draw ſuch Paralels between Dr. <hi>B</hi>— and Mr. <hi>Milton.</hi>
+               </p>
+               <p>The Dr. is not the only Poet who is hap<g ref="char:EOLhyphen"/>py in the good Graces of this Nice Gentleman; he has taken on him to Praiſe Mr. <hi>C</hi>— who, he ſays, has Matter enough about him to make ten <hi>Virgils;</hi> and to ſhew you he is no Niggard, he throws you in a <hi>Theocritus,</hi> into the bar<g ref="char:EOLhyphen"/>gain: You have often agreed with me, that Mr. <hi>C</hi>— has a great deal of Merit, and you know we were very glad the Town treated it ſo civilly at its firſt appearance, eſpecially in an Age, when People ſeem to have loſt their Reliſh in Poetry: But you will not conſent to every thing, the Perſon of Honour has ſaid on this Subject. Neither, I ſuppoſe, will Mr. <hi>C</hi>— be oblidg'd to one who ſhall Print his Panegy<g ref="char:EOLhyphen"/>rick with a Libel on <hi>Virgil.</hi>
+               </p>
+               <p>Thus in a moment the Moderns have got the ſtart of the Ancients: You have Travell'd to a fine purpoſe; moſt of the Advantages you pro<g ref="char:EOLhyphen"/>poſed to your ſelf by it, are deſtroy'd, ſince what can be more Ungrateful to us now, than the Names of thoſe Great Men, who made a Figure in the Days of <hi>Auguſtus?</hi> But for your comfort, there are ſome of us that get ſecretly
+<pb n="105" facs="tcp:96476:59"/>
+a corner and Read over <hi>Virgil</hi> and <hi>Horace,</hi> with the ſame pleaſure and admiration, which like an innocent Man, you may think they ſtill de<g ref="char:EOLhyphen"/>ſerve. We will with joy hear you Diſcourſe of the little Remains you ſaw of them, and if you could bring us the leaſt Relick of them, we would find out ſome place private enough to Adore it, inſpite of the ill treatment they meet with.</p>
+               <p>After I have ſaid ſo much of theſe late <hi>Cri<g ref="char:EOLhyphen"/>ticiſms,</hi> and of the affairs of Wit and Learning, you may expect a little News from the <hi>Theatre;</hi> you hear the Town gives Incouragement to two Stages, and there is the oddeſt Emulation amongſt 'em that can be Imagin'd. For inſtead of ſtriving who ſhall get the beſt Plays, they are both Induſtri<g ref="char:EOLhyphen"/>ous to ſecure the worſt; The Old Houſe had for a while in this the Advantage of the New; for they got Mr— amongſt them; but the New ſcorn'd to be out done by ſuch Youngſters, and engag'd Mr—, tho' perhaps you don't think Mr. <hi>D</hi>— is leſs intollerable than the other Play Wright. However, for true ſubſtan<g ref="char:EOLhyphen"/>tial Dulneſs in Tragedy, the New Houſe has indiſputably the better of 'em; no Man muſt in this, pretend to Rival Mr. <hi>B</hi>— who has at laſt convinc'd us he is capable of writing a Play more Inſipid than any of his former. Thus between the two Houſes we are every week preſented with a New <hi>Monſter;</hi> I think
+<pb n="106" facs="tcp:96476:60"/>
+they ought to hang out the Picture of it, that we may ſee how we like it before we Enter; 'tis what others, in the ſame caſe, make a Con<g ref="char:EOLhyphen"/>ſcience of.</p>
+               <p>The Old Houſe about two Months ago, made amends for the fatigues of a whole Winter; they gave us <hi>Oroonoko,</hi> a Tragedy, written by Mr. <hi>Sou<g ref="char:EOLhyphen"/>thern,</hi> with as much purity and force, as any we have yet had from that Great Man. I cant ſay 'tis Regular enough, but had it been more Correct, we ſhould not eaſily have known which of Mr. <hi>Otways</hi> Plays to prefer before it. The New Houſe, to ſhew they can be as Com<g ref="char:EOLhyphen"/>plaiſant ſometimes, as the Old, preſented us lately with a tolerable good Comedy, call'd, <hi>Lovers Luck,</hi> written by a Gentleman in the Army: I ſaw it once, and tho I dare not vindicate it, I think 'tis the beſt of the kind we have had ſince you left us.</p>
+               <p>You tell me you did not give me a larger De<g ref="char:EOLhyphen"/>ſcription of what you ſaw Remarkable at <hi>Na<g ref="char:EOLhyphen"/>ples, &amp;c.</hi> it being big enough for a Volume; you ſee I don't conſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er this when I write to my Friends, I wiſh you may as eaſily excuſe the length of this, as I would pardon ſuch a freedom in you. I wiſh you may enjoy a thouſand plea<g ref="char:EOLhyphen"/>ſures in the Carnival which you are to paſs at <hi>Venice,</hi> and when that is over, let me tell you, there are no Excuſes which ought to keep you any longer from us.</p>
+               <closer>
+                  <signed>I am, <hi>&amp;c.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Lond.</hi>
+                     <date>
+                        <hi>Jan.</hi> 21. 1695.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="107" facs="tcp:96476:60"/>
+               <head>TO N. B—, <abbr>Eſq</abbr> 
+                  <hi>At</hi> ENFIELD.</head>
+               <p>I Receiv'd from you lately a very Sententious and Grave Epiſtle ſuitable indeed to the importance and dignity of the Subject, being in Praiſe of Matrimony; but why you ſhould Addreſs ſuch a Diſcourſe to me of all Mankind, is what, at firſt, I could not eaſily comprehend. You know very well I was never one of thoſe <hi>Witty Gentlemen</hi> who are always railing at Wo<g ref="char:EOLhyphen"/>men and Marriage, as ſome People make Speeches againſt the Court, with a deſign to get Places there. I find the Trick miſcarries ſo often, and ſee ſo many of theſe Satiriſt;
+<pb n="108" facs="tcp:96476:61"/>
+Live with the ſcandal of old Batchelors, that I am reſolv'd to make my Peace with the Fair as ſoon as poſſible.</p>
+               <p>You were not wholly Ignorant of this diſpo<g ref="char:EOLhyphen"/>ſition of mine, when you wrote your Letter; and on ſerious conſideration of your proceed<g ref="char:EOLhyphen"/>ings, I muſt tell you plainly, that unleſs you had ſome further deſign in it, you would have thrown away a great deal of very good Mora<g ref="char:EOLhyphen"/>lity, abundance of fine Sayings and Quotati<g ref="char:EOLhyphen"/>ons to no purpoſe in the World. They had been all loſt on me, for I was as fully per<g ref="char:EOLhyphen"/>ſwaded before of what you ſay, as I believe you to be ſincere when you writ it. However, I am ſurpris'd at your excellent Temper and Moderation, for upon ſome accounts I ſhould have ſooner expected from you a Satire, than a Panegirick on a Marri'd Life; and when you ſpeak well of it, it muſt be confeſt you ſhow your ſelf the moſt impartial, and freeſt from Prejudice of any Man, ſince your own Provo<g ref="char:EOLhyphen"/>cations cannot tempt you to ſpeak againſt your Conſcience.</p>
+               <p>This Letter of yours, were it to be Publiſh'd, and your Circumſtances a little better known, were enough to convert ſome of our moſt ob<g ref="char:EOLhyphen"/>ſtinate Marriage-haters; they would ſee here a perſon who has ſuffer'd from Marriage the injury of Relations, and the inconvenience of a Wife, yet offering himſelf to Vindicate it to
+<pb n="109" facs="tcp:96476:61"/>
+the laſt. This would be a ſtronger Argument for it, than any of thoſe you have us'd to me, and they would be apt to fancy there are thoſe Secret pleaſures in this bleſſed ſtate, perhaps in the diſturbances of it, which none know but ſuch as are in it.</p>
+               <p>My Friend Mr. <hi>Oldmixon</hi> has ſeen your Letter, and joins with me in admiring the Sagacity of it; he is no Marriage-hater I aſſure you, but what, he ſays, makes him wonder moſt, is that being ſenſible how <hi>vexatious</hi> it muſt be to have <hi>a Wife</hi> out of her <hi>Wits,</hi> you ſhould ſtill preſerve your own, and that being deni'd the priviledg of a Husband, you ſhould never take the li<g ref="char:EOLhyphen"/>berties of a Batchelour; in this he thinks you might have ſome relief, if you were not ſo well con<g ref="char:EOLhyphen"/>tented, and ſo much in Love with your Con<g ref="char:EOLhyphen"/>dition; And you muſt certainly be very well pleas'd with it, when you are always tempt<g ref="char:EOLhyphen"/>ing others to Conform to the Doctrine of Ma<g ref="char:EOLhyphen"/>trimony, unleſs, as we are told in ſome other caſes; you deſign to betray us into the nooſe, that you may have Companions in your Misfortune, and laugh at the miſchief you have done. And you give me, Sir, ſome reaſons to miſtruſt your intention at the cloſe of your Letter, when you recommend the ill Natur'd Lady to me for a Miſtreſs. I cannot help ſuſpecting that you
+<pb n="110" facs="tcp:96476:62"/>
+would be very glad to have me as near you own Circumſtances as poſſible, when the choice you have made for me ſo nearly reſembles that which you were pleas'd to make for your ſelf.</p>
+               <p>Well, Sir, I agree to your ſage Councels, and will give you the Honour of making me a Con<g ref="char:EOLhyphen"/>vert, ſince you ſeem ſo much to affect it; tho I aſſure you, I was far from being in a ne<g ref="char:EOLhyphen"/>ceſſity of your Admonition in this matter, and to ſpeak my mind freely, if I had not been prepoſſeſt before with an ill Opinion of my pre<g ref="char:EOLhyphen"/>ſent ſtate, your Reaſons would not have had ſo compleat a Victory, as you may now boaſt of; the fine froward Lady you wiſh me to, might have ſtill liv'd without a Servant, and have loſt a very pretty opportunity to ſhow her Talent at Scolding: I wiſh to God you could change that fault of hers, for any other. I can never beat it out of my Head, but there muſt be a great deal of plague in Noiſe, Peeviſhneſs, <hi>&amp;c.</hi> tho you know beſt indeed how far that is tollerable; and I am reſolv'd to take the Advice of People of Experience.</p>
+               <p>Bring me then to my Miſtriſs, as ſoon as you pleaſe; ſecure me in all her other Fair
+<pb n="111" facs="tcp:96476:62"/>
+Endowments; give me your promiſe that I ſhall clear my ſelf of my Spouſe, as eaſily as you got rid of yours, and ſee if I am not her, and,</p>
+               <closer>
+                  <dateline>
+                     <hi>Lond.</hi>
+                     <date>
+                        <hi>Jan.</hi> 30. 1696.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+                  <signed>Your moſt Humble Servant, T. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="112" facs="tcp:96476:63"/>
+               <head>TO Mr. Freeman.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IF I were, of all Men, the moſt Extrava<g ref="char:EOLhyphen"/>gant and Whimſical, you, who were once guilty of the ſame weakneſſes, ſhould be the laſt to Condemn me, ſince the Paſſion that robs me of my Reaſon, has before had the ſame effects on your ſelf; you have been long enough bleſt by it, to forget its former Injuries; and were I to be as happy in my Love, as you have been in yours, I would give you no more cauſe to complain of my being troubleſome, or diſturbing your Converſa<g ref="char:EOLhyphen"/>tion with <hi>Sighs, Groans, Rants,</hi> and an Innu<g ref="char:EOLhyphen"/>merable multitude of <hi>Complaints, &amp;c.</hi>
+               </p>
+               <p>
+                  <pb n="113" facs="tcp:96476:63"/>I miſtruſt, indeed, there are a great many perſons in the World who would believe me a very improper Man to make a Husband, were they to ſee me in ſome of thoſe fits which you Ad<g ref="char:EOLhyphen"/>viſe me to be Cur'd of. But theſe are perſons who never felt the Power of Love. 'Tis true, they are <hi>Husbands,</hi> and we ought to ſuppoſe that all in thoſe Circumſtances were firſt in <hi>Min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> We ought to ſuppoſe it, if we did not ſee every day that a Man may eaſily be an <hi>Husband,</hi> without being a <hi>Lover,</hi> or concerning himſelf any farther about his Miſtreſs, than adjuſting her Portion, and Compounding the Settlement. Theſe are your <hi>Modern Husbands,</hi> and your <hi>Modern Lovers;</hi> and this is the reaſon why the Age is ſo plentifully Stock'd with a ſort of Animals, which the An<g ref="char:EOLhyphen"/>tients us'd to ſhew for Monſters, as we would now a <hi>Rhinoceros,</hi> or an <hi>
+                     <g ref="char:V">Ʋ</g>nicorn.</hi> But thanks to our Stars, Cuſtom has prevail'd on us to look on them with leſs Aſtoniſhment; and even our Children can now play with them, with<g ref="char:EOLhyphen"/>out being Frighted.</p>
+               <p>
+                  <pb n="114" facs="tcp:96476:64"/>I know ſome Men, who if they were to Marry, I ſhould ſuſpect they would ſerve their Wives, as a Friend of mine <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es his Books, lay them on the Shelf, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ever touch them, but when they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo much in his way that he cannot <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pe them, who when ever he favours <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Author ſo far as to bring him into his Cloſet, we know preſently he never in<g ref="char:EOLhyphen"/>tends to Read him. But we that are his Friends are aſham'd to ſee a good Li<g ref="char:EOLhyphen"/>brary grow mouldy for want of uſe, and tumble it over, as freely as if it were our own Property.</p>
+               <p>The negligence and diſreſpect of the generality of Husbands would be prevent<g ref="char:EOLhyphen"/>ed, if People were ne<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to Marry be<g ref="char:EOLhyphen"/>fore <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y give ſuff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cient proofs of their Paſſion, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that Intereſt is not the only Reaſon of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Engagements: Or if the Proofs we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did not lye under the ſcan<g ref="char:EOLhyphen"/>dal of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, which you ſeem to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> There are, I confeſs, in Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, as well as Religion, a Crowd of Falſe Pretenders; and thoſe who talk moſt of their Sincerity, are moſt
+<pb n="115" facs="tcp:96476:64"/>
+to be ſuſpected. The Enthuſiaſts in both Caſes are to be ſeldom Truſted: But though we meet with ſeveral Inſtances of their Trenchery, we ſhould not cen<g ref="char:EOLhyphen"/>ſure all of them for Hippocrites, ſince we muſt own, that ſuch as are moſt Devout, will ſome times be oblidg'd to diſcover their Flames: And by their Warmth and Geſture we may Diſtin<g ref="char:EOLhyphen"/>guiſh very often the True Zeal from the Affected.</p>
+               <p>You may conſider then how far I am to be believ'd; and I could almoſt dare you to declare publickly, whether you don't think my Extravagance and Un<g ref="char:EOLhyphen"/>reaſonableneſs (as you term it) are the moſt Lawful and Reaſonable of any you ever met with; or whether they ever gave you cauſe to miſtruct that I Diſſembled? Or whether, when you Reflect on the Advantages <hi>Corinna</hi> has above all other Women, you do not Excuſe me for Loving her to ſuch an Ex<g ref="char:EOLhyphen"/>tremity?</p>
+               <p>This, Sir, I think you muſt in Juſtice declare, and then I ſhall never repent me of a folly which brings me ſo many Satisfactions, nor deſire to be Cur'd, but
+<pb n="116" facs="tcp:96476:65"/>
+by the ſame Remedies which ſucceeded on you; and I dare you further to Pub<g ref="char:EOLhyphen"/>liſh whether in the height of my Di<g ref="char:EOLhyphen"/>ſtraction, I forgot once my Duty to my Friends.</p>
+               <closer>
+                  <signed>I am, Sir, <hi>&amp;c. J. O.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>January,</hi> 17. 1695.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="117" facs="tcp:96476:65"/>
+               <head>TO <hi>Dr.</hi> M—n.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Am of your Opinion, that Mr. <hi>Cow<g ref="char:EOLhyphen"/>ley</hi> ſucceeded better in his <hi>Anacreon<g ref="char:EOLhyphen"/>tiques,</hi> than in his other Poems. But he Affected to have a Univerſal Genius, and that may be the Reaſon why ſo great a Wit has left us ſo Little that is Excellent: We find in all his Writ<g ref="char:EOLhyphen"/>ings a Luxuriant Fancy; but 'tis every where Crowded with trivial Points and Turns; the one ſometimes very unnatural, &amp;
+<pb n="118" facs="tcp:96476:66"/>
+the other ſeldom truly Delicate. Tho you Commanded me to give you my Opinion on his <hi>Anacreontiques,</hi> you did not deſire me to ſay any thing of his <hi>Pindariques.</hi> You knew very well I would Excuſe my ſelf if you had; whether I like 'em or not, there is ſo much due to the man who firſt Introdc'd this way of writing amongſt us, that none, but the Pro<g ref="char:EOLhyphen"/>phane will venture to diſturb his Aſhes. If Mr. <hi>Rimer</hi> had thus conſider'd his Duty to <hi>Shakeſpear,</hi> as he was the Father of our Stage, he would have ſav'd himſelf, and the World, a great deal of Trouble and Scandal.</p>
+               <p>Mr. <hi>Dryden</hi> has frequently given us a Character of Mr. <hi>Cowley's</hi> other Verſes, but he never ſaid any thing of thoſe writ<g ref="char:EOLhyphen"/>ten in imitation of <hi>Anacreon.</hi> 'Tis true, that great Poet is above this Manner, his Genius cannot Stoop to ſuch Petty Em<g ref="char:EOLhyphen"/>ployments; But this muſt not excuſe o<g ref="char:EOLhyphen"/>thers, who have not his Qualifications, and yet take the ſame Liberty to think themſelves above an <hi>Ode</hi> or an <hi>Elegy.</hi> They reckon them amongſt the Low Poetry, and nothing can pleaſe them now, but
+<pb n="119" facs="tcp:96476:66"/>
+                  <hi>Heroick</hi>'s, <hi>Pindarick</hi>'s, or <hi>Tragedy.</hi> I have known ſome who have ſucceeded in a <hi>Madrigal,</hi> preſently conclude them<g ref="char:EOLhyphen"/>ſelves Inſpir'd, and nothing would ſa<g ref="char:EOLhyphen"/>tisfy them, but they muſt Venture on an <hi>Heroick</hi> Poem. You will ſcarce be<g ref="char:EOLhyphen"/>lieve me if I ſhould tell you that an Honeſt Rhiming Hoſier is at this time buſie in the Second Part of Prince <hi>Ar<g ref="char:EOLhyphen"/>thur.</hi> I muſt confeſs theſe things are a<g ref="char:EOLhyphen"/>bove my Reach; and I never thought any Perſon Living capable to pretend to it but Mr. <hi>Dryden,</hi> and he who knows beſt what it is, knows alſo the Task is ſo difficult, that he durſt not attempt it. I ſend you, inclos'd, the Second Ode of <hi>Anacreon</hi> in <hi>Engliſh,</hi> by comparing it with Mr. <hi>Cowley</hi>'s, you will ſee beſt how much I differ from him in his Coppying <hi>Anacreon;</hi> Mr. <hi>Cowley</hi> confeſſes he has Tranſlated it Paraphraſti<g ref="char:EOLhyphen"/>cally; and you will perceive where he mingles his own Thoughts with <hi>Anacre<g ref="char:EOLhyphen"/>ons,</hi> he does it very much to the diſad<g ref="char:EOLhyphen"/>vantage of the Original. <hi>Anacreon</hi> comes directly on the Subject he Treats of, whilſt Mr. <hi>Cowley</hi> turns and winds to ſhew his Wit and Learning.</p>
+               <p>
+                  <pb n="120" facs="tcp:96476:67"/>
+                  <hi>Anacrean</hi> gives us one good Thought in an Ode, Adorning it with all the Flowers, and graces of a true Deli<g ref="char:EOLhyphen"/>cacy; and we like it much bet<g ref="char:EOLhyphen"/>ter than the ſtrange Variety of ſome of his Imitators. He has in the Ode I ſend you, Expreſt in Twelve words, what Mr. <hi>Cowley</hi> dwells on almoſt as many Lines. Some allowance muſt be made for the Language, but the Difference in the Expreſſion is much more diſproporti<g ref="char:EOLhyphen"/>onate. He would hardly have run a Diviſion, when he came to,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>
+                  <hi>Mr.</hi> Cowley.</p>
+               <q>
+                  <l>Wiſdom to Men ſhe did afford,</l>
+                  <l>Wiſdom for Shield, and Wit for Sword.</l>
+               </q>
+               <p>
+                  <hi>Anacreon</hi> would have been loath to own,
+<q>
+                     <l>What Steel, what Gold, what Diamond</l>
+                     <l>More impaſſible is found.</l>
+                  </q>
+               </p>
+               <p>
+                  <pb n="121" facs="tcp:96476:67"/>He would have ſtartled to have ſeen the concluſion of his Ode thus Para<g ref="char:EOLhyphen"/>phras'd.</p>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </q>
+               <q>
+                  <l>They are all Weapon, and they dart,</l>
+                  <l>Like <hi>Porcupines,</hi> from every part;</l>
+                  <l>Who can, alas! their Strength expreſs,</l>
+                  <l>Arm'd, when they themſelves undreſs,</l>
+                  <l>
+                     <hi>Cap-a-pe,</hi> with Nakedneſs.</l>
+               </q>
+               <p>This is a particular ſort of Wit, which I am ſure is very inconſiſtent with the Character of <hi>Anacreon;</hi> Nothing can be more Eaſy and Natural than this Thought in the Original, where the Tranſlator has been ſo prodigal of his Points: But in good manners to the Sa<g ref="char:EOLhyphen"/>cred memory of Mr. <hi>Cowley,</hi> I ought not to ſay ſo much againſt it as I could.</p>
+               <p>
+                  <pb n="122" facs="tcp:96476:68"/>Through the whole Ode, Mr. <hi>Cowley</hi> has not at all been exact in his Rhimes or Numbers: If there were no other Faults, this would be enough to Condemn him in things where a ſweet <hi>Cadence</hi> is one of the Chiefeſt Graces; But every Body knows Mr. <hi>Cowley's</hi> Felicity was not his meaſure. However, we will forgive him this, with a great many other miſtakes, for the Beau<g ref="char:EOLhyphen"/>ty of his Ode upon <hi>Age,</hi> which is a ma<g ref="char:EOLhyphen"/>ſter-piece; and whoever pretends, to give us a Tranſlation of <hi>Anacreon,</hi> muſt ſet that for his Pattern.</p>
+               <p>Thus, Sir, I have brought my Thoughts into as little a compaſs as poſſible; you have them freely, and without Prejudice, if what I have ſaid will ſatisfy you for the preſent; hereafter you may expect ſome<g ref="char:EOLhyphen"/>thing more on this Subject,</p>
+               <closer>
+                  <signed>I am, <hi>&amp;c.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Lond.</hi>
+                     <date>
+                        <hi>Dec.</hi> 13. 1695.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96476:68"/>
+         </div>
+      </body>
+   </text>
+</TEI>
